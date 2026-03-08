@@ -1,0 +1,3592 @@
+{
+  "headers": {
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "language": "pt_PT"
+  },
+  "contexts": {
+    "Action": {
+      "${ BRAND_NAME } introduction": [
+        "Introdução do ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } shop": [
+        "Loja ${ BRAND_NAME }"
+      ],
+      "Activate recovery": [
+        "Ativar recuperação"
+      ],
+      "Add credit / debit card": [
+        "Adicionar cartão de crédito/débito"
+      ],
+      "Add credits": [
+        "Adicionar créditos"
+      ],
+      "Add PayPal": [
+        "Adicionar PayPal"
+      ],
+      "Apply": [
+        "Aplicar"
+      ],
+      "Attach screenshot(s)": [
+        "Anexar captura(s) de ecrã"
+      ],
+      "Attention required": [
+        "Requer atenção"
+      ],
+      "Authenticate": [
+        "Autenticar"
+      ],
+      "Back": [
+        "Recuar"
+      ],
+      "Cancel": [
+        "Cancelar"
+      ],
+      "Change mailbox password": [
+        "Alterar a palavra-passe da caixa de correio"
+      ],
+      "Change password": [
+        "Alterar a palavra-passe"
+      ],
+      "Chat with us": [
+        "Converse connosco"
+      ],
+      "Close": [
+        "Fechar"
+      ],
+      "Close navigation": [
+        "Fechar navegação"
+      ],
+      "Close this banner": [
+        "Fechar esta faixa"
+      ],
+      "Confirm": [
+        "Confirmar"
+      ],
+      "Contact support": [
+        "Contactar o suporte"
+      ],
+      "Continue": [
+        "Continuar"
+      ],
+      "Copy": [
+        "Copiar"
+      ],
+      "Copy email to clipboard": [
+        "Copiar mensagem para a área de transferência"
+      ],
+      "Create": [
+        "Criar"
+      ],
+      "Create account": [
+        "Criar conta"
+      ],
+      "Current plan": [
+        "Plano atual"
+      ],
+      "Customize": [
+        "Personalizar"
+      ],
+      "Customize plan": [
+        "Personalizar plano"
+      ],
+      "Decrease": [
+        "Diminuir"
+      ],
+      "Delete": [
+        "Eliminar"
+      ],
+      "Delete your account": [
+        "Eliminar a sua conta"
+      ],
+      "Details": [
+        "Detalhes"
+      ],
+      "Didn't receive a code?": [
+        "Não recebeu o código?"
+      ],
+      "Disable": [
+        "Desativar"
+      ],
+      "Discard": [
+        "Descartar"
+      ],
+      "Done": [
+        "Concluído"
+      ],
+      "Downgrade": [
+        "Conta com menos funcionalidades"
+      ],
+      "Downgrade account": [
+        "Regredir conta"
+      ],
+      "Download": [
+        "Transferir"
+      ],
+      "Download all configurations": [
+        "Transferir todas as configurações"
+      ],
+      "Edit": [
+        "Editar"
+      ],
+      "Edit billing details": [
+        "Editar detalhes da faturação"
+      ],
+      "Edit display name": [
+        "Editar o nome a mostrar"
+      ],
+      "Edit email address": [
+        "Editar o endereço de email"
+      ],
+      "Edit phone number": [
+        "Editar o número de telefone"
+      ],
+      "Edit sign-in details": [
+        "Editar detalhes do início de sessão"
+      ],
+      "Edit subscription": [
+        "Editar subscrição"
+      ],
+      "enable desktop notifications": [
+        "ativar as notificações"
+      ],
+      "Explore other ${ BRAND_NAME } plans": [
+        "Explorar outros planos ${ BRAND_NAME }"
+      ],
+      "Fit to window": [
+        "Ajustar na janela"
+      ],
+      "Get ${ vpnPlus }": [
+        "Obter o ${ vpnPlus }"
+      ],
+      "Get verification code": [
+        "Obter código de verificação"
+      ],
+      "Hide": [
+        "Ocultar"
+      ],
+      "I have a question": [
+        "Tenho uma dúvida"
+      ],
+      "Increase": [
+        "Aumentar"
+      ],
+      "Load more": [
+        "Carregar mais"
+      ],
+      "Loading verification": [
+        "A carregar verificação"
+      ],
+      "Mark as default": [
+        "Marcar como predefinição"
+      ],
+      "Maybe later": [
+        "Talvez mais tarde"
+      ],
+      "More info: ${ safeTitle }": [
+        "Mais informações: ${ safeTitle }"
+      ],
+      "Need help?": [
+        "Precisa de ajuda?"
+      ],
+      "Next": [
+        "Seguinte"
+      ],
+      "OK": [
+        "Aceitar"
+      ],
+      "Open ${ CALENDAR_APP_NAME } settings": [
+        "Abrir definições do ${ CALENDAR_APP_NAME }"
+      ],
+      "Open navigation": [
+        "Abrir navegação"
+      ],
+      "Organization": [
+        "Organização"
+      ],
+      "Pay": [
+        "Pagar"
+      ],
+      "Previous": [
+        "Anterior"
+      ],
+      "Refer a friend": [
+        "Referencie um amigo"
+      ],
+      "Refresh the page": [
+        "Atualizar a página"
+      ],
+      "refresh the page": [
+        "atualizar a página"
+      ],
+      "Remove bonuses": [
+        "Remover bónus"
+      ],
+      "Remove gift code": [
+        "Remover código de oferta"
+      ],
+      "Report a problem": [
+        "Relatar um problema"
+      ],
+      "Request a feature": [
+        "Pedir uma funcionalidade"
+      ],
+      "Request new code": [
+        "Pedir novo código"
+      ],
+      "Resend code": [
+        "Reenviar código"
+      ],
+      "Reset credentials": [
+        "Repor credenciais"
+      ],
+      "Reset password": [
+        "Repor palavra-passe"
+      ],
+      "Restore": [
+        "Restaurar"
+      ],
+      "Retry": [
+        "Repetir"
+      ],
+      "Return to sign in": [
+        "Voltar ao início de sessão"
+      ],
+      "Revoke": [
+        "Revogar"
+      ],
+      "Save": [
+        "Gravar"
+      ],
+      "Search countries": [
+        "Procurar países"
+      ],
+      "See plan features": [
+        "Veja as funcionalidades do plano"
+      ],
+      "Select ${ planTitle }": [
+        "Selecionar ${ planTitle }"
+      ],
+      "Send code": [
+        "Enviar código"
+      ],
+      "Send my username": [
+        "Enviar nome de utilizador"
+      ],
+      "Set recovery phrase": [
+        "Definir frase de recuperação"
+      ],
+      "Share via link": [
+        "Partilhar por ligação"
+      ],
+      "Sharing options": [
+        "Opções de partilha"
+      ],
+      "Show": [
+        "Mostrar"
+      ],
+      "Show preview": [
+        "Mostrar pré-visualização"
+      ],
+      "Sign in": [
+        "Iniciar sessão"
+      ],
+      "Sign out": [
+        "Terminar sessão"
+      ],
+      "Signing out": [
+        "A terminar sessão"
+      ],
+      "Submit": [
+        "Submeter"
+      ],
+      "Support": [
+        "Apoio ao cliente"
+      ],
+      "Top up": [
+        "Recarregar"
+      ],
+      "Try again": [
+        "Tentar novamente"
+      ],
+      "Try another method": [
+        "Tentar outro método"
+      ],
+      "Try to save again. Saving failed due to: ${ saveError }": [
+        "Tente gravar novamente. O processo de gravar falhou devido a: ${ saveError }"
+      ],
+      "Unlock": [
+        "Desbloquear"
+      ],
+      "Unlock data": [
+        "Desbloquear dados"
+      ],
+      "Update recovery file": [
+        "Atualizar ficheiro de recuperação"
+      ],
+      "Update recovery phrase": [
+        "Atualizar frase de recuperação"
+      ],
+      "Upgrade": [
+        "Atualizar"
+      ],
+      "Upgrade now": [
+        "Atualizar agora"
+      ],
+      "Use ${ label } theme": [
+        "Usar o tema ${ label }"
+      ],
+      "Use a different card": [
+        "Utilizar um cartão diferente"
+      ],
+      "Use a different payment method": [
+        "Utilizar um método de pagamento diferente"
+      ],
+      "Use authentication code": [
+        "Usar código de autenticação"
+      ],
+      "Use recovery code": [
+        "Usar código de recuperação"
+      ],
+      "Use your current email instead": [
+        "Utilizar o seu correio electrónico atual"
+      ],
+      "User": [
+        "Utilizador"
+      ],
+      "Verify": [
+        "Verificar"
+      ],
+      "Verify account": [
+        "Verificar conta"
+      ],
+      "Verify code": [
+        "Verificar código"
+      ],
+      "Verify code again": [
+        "Verificar código novamente"
+      ],
+      "View": [
+        "Ver"
+      ],
+      "View invoice": [
+        "Ver factura"
+      ],
+      "View plans details": [
+        "Ver detalhes do plano"
+      ],
+      "What do I get?": [
+        "O que recebo?"
+      ],
+      "Zoom in": [
+        "Ampliar"
+      ],
+      "Zoom out": [
+        "Reduzir"
+      ]
+    },
+    "Action in trial plan": {
+      "No, thanks": [
+        "Não, obrigado"
+      ]
+    },
+    "Addon": {
+      "+ ${ domains } custom domain": [
+        "+ ${ domains } domínio personalizado",
+        "+ ${ domains } domínios personalizados"
+      ],
+      "+ ${ users } user": [
+        "+ ${ users } utilizador",
+        "+ ${ users } utilizadores"
+      ]
+    },
+    "Billing cycle": {
+      "Renews automatically on ${ formattedEndTime }": [
+        "Renova automaticamente em ${ formattedEndTime }"
+      ]
+    },
+    "Billing cycle option": {
+      "1 month": [
+        "1 mês"
+      ],
+      "12 months": [
+        "12 meses"
+      ],
+      "24 months": [
+        "24 meses"
+      ],
+      "Annually": [
+        "Anualmente"
+      ],
+      "Monthly": [
+        "Mensalmente"
+      ],
+      "Two-year": [
+        "Bianual"
+      ]
+    },
+    "Bug category": {
+      "Application problem": [
+        "Problema de aplicação"
+      ],
+      "Bridge problem": [
+        "Problema na Bridge"
+      ],
+      "Calendar problem": [
+        "Problema no calendário"
+      ],
+      "Connection problem": [
+        "Problema com a ligação"
+      ],
+      "Contacts problem": [
+        "Problema nos contactos"
+      ],
+      "Custom domain problem": [
+        "Problema nos domínios personalizados"
+      ],
+      "Drive problem": [
+        "Problema na Drive"
+      ],
+      "Feature request": [
+        "Pedido de funcionalidade"
+      ],
+      "Import / export problem": [
+        "Problema ao importar/exportar"
+      ],
+      "Installation problem": [
+        "Problema na instalação"
+      ],
+      "Mail problem": [
+        "Problema no correio"
+      ],
+      "Manual setup problem": [
+        "Problema de configuração manual"
+      ],
+      "Other": [
+        "Outro"
+      ],
+      "Payments problem": [
+        "Problema com os pagamentos"
+      ],
+      "Sign in problem": [
+        "Problema ao registar"
+      ],
+      "Sign up problem": [
+        "Problema ao registar"
+      ],
+      "Signup problem": [
+        "Problema ao registar"
+      ],
+      "Slow speed problem": [
+        "Problema de velocidade lenta"
+      ],
+      "Speed problem": [
+        "Problema de velocidade"
+      ],
+      "Streaming problem": [
+        "Problema de transmissão"
+      ],
+      "Update problem": [
+        "Problema de atualização"
+      ],
+      "VPN problem": [
+        "Problema de VPN"
+      ],
+      "Website access problem": [
+        "Problema de acesso à página web"
+      ]
+    },
+    "Checkout row": {
+      "${ users } user": [
+        "${ users } utilizador",
+        "${ users } utilizadores"
+      ],
+      "Total for ${ n } month": [
+        "Total por ${ n } mês",
+        "Total por ${ n } meses"
+      ]
+    },
+    "Collapsible tooltip": {
+      "Collapse": [
+        "Fechar"
+      ],
+      "Expand": [
+        "Expandir"
+      ]
+    },
+    "color": {
+      "carrot": [
+        "cenoura"
+      ],
+      "cerise": [
+        "cereja"
+      ],
+      "cobalt": [
+        "cobalto"
+      ],
+      "copper": [
+        "cobre"
+      ],
+      "enzian": [
+        "genciana"
+      ],
+      "fern": [
+        "samambaia"
+      ],
+      "forest": [
+        "floresta"
+      ],
+      "ocean": [
+        "oceano"
+      ],
+      "olive": [
+        "azeitona"
+      ],
+      "pacific": [
+        "pacífico"
+      ],
+      "pickle": [
+        "pepininhos"
+      ],
+      "pine": [
+        "pinho"
+      ],
+      "pink": [
+        "rosa"
+      ],
+      "plum": [
+        "ameixa"
+      ],
+      "purple": [
+        "roxo"
+      ],
+      "reef": [
+        "recife"
+      ],
+      "sahara": [
+        "saará"
+      ],
+      "slateblue": [
+        "azul ardósia"
+      ],
+      "soil": [
+        "terra"
+      ],
+      "strawberry": [
+        "morango"
+      ]
+    },
+    "Confirmation message to delete payment method": {
+      "Are you sure you want to delete this payment method?": [
+        "Tem a certeza de que deseja eliminar este método de pagamento?"
+      ]
+    },
+    "Confirmation title": {
+      "Delete payment method": [
+        "Eliminar método de pagamento"
+      ]
+    },
+    "Country name": {
+      "Abkhazia": [
+        "Abecásia"
+      ],
+      "Afghanistan": [
+        "Afeganistão"
+      ],
+      "Albania": [
+        "Albânia"
+      ],
+      "Algeria": [
+        "Algéria"
+      ],
+      "American Samoa": [
+        "Samoa Americana"
+      ],
+      "Andorra": [
+        "Andorra"
+      ],
+      "Angola": [
+        "Angola"
+      ],
+      "Anguilla": [
+        "Anguilla"
+      ],
+      "Antarctica": [
+        "Antárctica"
+      ],
+      "Antigua and Barbuda": [
+        "Antígua e Barbuda"
+      ],
+      "Argentina": [
+        "Argentina"
+      ],
+      "Armenia": [
+        "Arménia"
+      ],
+      "Aruba": [
+        "Aruba"
+      ],
+      "Ascension Island": [
+        "Ilha de Ascensão"
+      ],
+      "Australia": [
+        "Austrália"
+      ],
+      "Austria": [
+        "Áustria"
+      ],
+      "Azerbaijan": [
+        "Azerbaijão"
+      ],
+      "Bahamas": [
+        "Baamas"
+      ],
+      "Bahrain": [
+        "Barém"
+      ],
+      "Bangladesh": [
+        "Bangladesh"
+      ],
+      "Barbados": [
+        "Barbados"
+      ],
+      "Belarus": [
+        "Bielorrússia"
+      ],
+      "Belgium": [
+        "Bélgica"
+      ],
+      "Belize": [
+        "Belize"
+      ],
+      "Benin": [
+        "Benim"
+      ],
+      "Bermuda": [
+        "Bermuda"
+      ],
+      "Bhutan": [
+        "Butão"
+      ],
+      "Bolivia": [
+        "Bolívia"
+      ],
+      "Bonaire, Sint Eustatius and Saba": [
+        "Bonaire, Santo Eustáquio e Saba"
+      ],
+      "Bosnia and Herzegovina": [
+        "Bósnia e Herzegovina"
+      ],
+      "Botswana": [
+        "Botsuana"
+      ],
+      "Bouvet Island": [
+        "Ilha Bouvet"
+      ],
+      "Brazil": [
+        "Brasil"
+      ],
+      "British Indian Ocean Territory": [
+        "Território Britânico no Oceano Índico"
+      ],
+      "Brunei Darussalam": [
+        "Brunei Darussalam"
+      ],
+      "Bulgaria": [
+        "Bulgária"
+      ],
+      "Burkina Faso": [
+        "Burkina Faso"
+      ],
+      "Burundi": [
+        "Burundi"
+      ],
+      "Cambodia": [
+        "Cambodja"
+      ],
+      "Cameroon": [
+        "Camarões"
+      ],
+      "Canada": [
+        "Canadá"
+      ],
+      "Cape Verde": [
+        "Cabo Verde"
+      ],
+      "Cayman Islands": [
+        "Ilhas Cayman"
+      ],
+      "Central African Republic": [
+        "República Central Africana"
+      ],
+      "Chad": [
+        "Chade"
+      ],
+      "Chile": [
+        "Chile"
+      ],
+      "China": [
+        "China"
+      ],
+      "Christmas Island": [
+        "Ilha Natal"
+      ],
+      "Cocos (Keeling) Islands": [
+        "Ilhas Cocos (Keeling)"
+      ],
+      "Colombia": [
+        "Colômbia"
+      ],
+      "Comoros": [
+        "Comores"
+      ],
+      "Congo": [
+        "Congo"
+      ],
+      "Congo, Democratic Republic of the": [
+        "Congo (República Democrática)"
+      ],
+      "Cook Islands": [
+        "Ilhas Cook"
+      ],
+      "Costa Rica": [
+        "Costa Rica"
+      ],
+      "Croatia": [
+        "Croácia"
+      ],
+      "Cuba": [
+        "Cuba"
+      ],
+      "Curaçao": [
+        "Curaçao"
+      ],
+      "Cyprus": [
+        "Chipre"
+      ],
+      "Czech Republic": [
+        "República Checa"
+      ],
+      "Côte d'Ivoire": [
+        "Costa do Marfim"
+      ],
+      "Denmark": [
+        "Dinamarca"
+      ],
+      "Djibouti": [
+        "Djibuti"
+      ],
+      "Dominica": [
+        "Dominica"
+      ],
+      "Dominican Republic": [
+        "República Dominicana"
+      ],
+      "Ecuador": [
+        "Equador"
+      ],
+      "Egypt": [
+        "Egipto"
+      ],
+      "El Salvador": [
+        "El Salvador"
+      ],
+      "Equatorial Guinea": [
+        "Guiné Equatorial"
+      ],
+      "Eritrea": [
+        "Eritreia"
+      ],
+      "Estonia": [
+        "Estónia"
+      ],
+      "Eswatini": [
+        "Suazilândia"
+      ],
+      "Ethiopia": [
+        "Etiópia"
+      ],
+      "Falkland Islands": [
+        "Ilhas Falkland"
+      ],
+      "Faroe Islands": [
+        "Ilhas Faroé"
+      ],
+      "Federated States of Micronesia": [
+        "Estados Federados da Micronésia"
+      ],
+      "Fiji": [
+        "Ilhas Fiji"
+      ],
+      "Finland": [
+        "Finlândia"
+      ],
+      "France": [
+        "França"
+      ],
+      "French Guiana": [
+        "Guiana Francesa"
+      ],
+      "French Polynesia": [
+        "Polinésia Francesa"
+      ],
+      "French Southern Territories": [
+        "Territórios franceses do Sul"
+      ],
+      "Gabon": [
+        "Gabão"
+      ],
+      "Gambia": [
+        "Gâmbia"
+      ],
+      "Georgia": [
+        "Geórgia"
+      ],
+      "Germany": [
+        "Alemanha"
+      ],
+      "Ghana": [
+        "Gana"
+      ],
+      "Gibraltar": [
+        "Gibraltar"
+      ],
+      "Greece": [
+        "Grécia"
+      ],
+      "Greenland": [
+        "Gronelândia"
+      ],
+      "Grenada": [
+        "Grenada"
+      ],
+      "Guadeloupe": [
+        "Guadalupe"
+      ],
+      "Guam": [
+        "Guam"
+      ],
+      "Guatemala": [
+        "Guatemala"
+      ],
+      "Guernsey": [
+        "Guernsey"
+      ],
+      "Guinea": [
+        "Guiné"
+      ],
+      "Guinea-Bissau": [
+        "Guiné-Bissau"
+      ],
+      "Guyana": [
+        "Guiana"
+      ],
+      "Haiti": [
+        "Haiti"
+      ],
+      "Heard Island and McDonald Islands": [
+        "Ilha Heard e Ilhas McDonald"
+      ],
+      "Holy See (Vatican City State)": [
+        "Santa Sé (Estado da Cidade do Vaticano)"
+      ],
+      "Honduras": [
+        "Honduras"
+      ],
+      "Hong Kong": [
+        "Hong Kong"
+      ],
+      "Hungary": [
+        "Hungria"
+      ],
+      "Iceland": [
+        "Islândia"
+      ],
+      "India": [
+        "Índia"
+      ],
+      "Indonesia": [
+        "Indonésia"
+      ],
+      "International": [
+        "Internacional"
+      ],
+      "Iran": [
+        "Irão"
+      ],
+      "Iraq": [
+        "Iraque"
+      ],
+      "Ireland": [
+        "Irlanda"
+      ],
+      "Isle of Man": [
+        "Ilha de Man"
+      ],
+      "Israel": [
+        "Israel"
+      ],
+      "Italy": [
+        "Itália"
+      ],
+      "Jamaica": [
+        "Jamaica"
+      ],
+      "Japan": [
+        "Japão"
+      ],
+      "Jersey": [
+        "Jersey"
+      ],
+      "Jordan": [
+        "Jordânia"
+      ],
+      "Kazakhstan": [
+        "Cazaquistão"
+      ],
+      "Kenya": [
+        "Quénia"
+      ],
+      "Kiribati": [
+        "Quiribati"
+      ],
+      "Kosovo": [
+        "Kosovo"
+      ],
+      "Kuwait": [
+        "Kuwait"
+      ],
+      "Kyrgyzstan": [
+        "Quirguistão"
+      ],
+      "Laos": [
+        "Laos"
+      ],
+      "Latvia": [
+        "Látvia"
+      ],
+      "Lebanon": [
+        "Líbano"
+      ],
+      "Lesotho": [
+        "Lesoto"
+      ],
+      "Liberia": [
+        "Libéria"
+      ],
+      "Libya": [
+        "Líbia"
+      ],
+      "Liechtenstein": [
+        "Liechtenstein"
+      ],
+      "Lithuania": [
+        "Lituânia"
+      ],
+      "Luxembourg": [
+        "Luxemburgo"
+      ],
+      "Macao": [
+        "Macau"
+      ],
+      "Madagascar": [
+        "Madagáscar"
+      ],
+      "Malawi": [
+        "Malauí"
+      ],
+      "Malaysia": [
+        "Malásia"
+      ],
+      "Maldives": [
+        "Maldivas"
+      ],
+      "Mali": [
+        "Mali"
+      ],
+      "Malta": [
+        "Malta"
+      ],
+      "Marshall Islands": [
+        "Ilhas Marshall"
+      ],
+      "Martinique": [
+        "Martinica"
+      ],
+      "Mauritania": [
+        "Mauritânia"
+      ],
+      "Mauritius": [
+        "Maurícia"
+      ],
+      "Mayotte": [
+        "Maiote"
+      ],
+      "Mexico": [
+        "México"
+      ],
+      "Moldova": [
+        "Moldávia"
+      ],
+      "Monaco": [
+        "Mónaco"
+      ],
+      "Mongolia": [
+        "Mongólia"
+      ],
+      "Montenegro": [
+        "Montenegro"
+      ],
+      "Montserrat": [
+        "Monserrate"
+      ],
+      "Morocco": [
+        "Marrocos"
+      ],
+      "Mozambique": [
+        "Moçambique"
+      ],
+      "Myanmar": [
+        "Mianmar"
+      ],
+      "Namibia": [
+        "Namíbia"
+      ],
+      "Nauru": [
+        "Nauru"
+      ],
+      "Nepal": [
+        "Nepal"
+      ],
+      "Netherlands": [
+        "Países Baixos"
+      ],
+      "New Caledonia": [
+        "Nova Caledónia"
+      ],
+      "New Zealand": [
+        "Nova Zelândia"
+      ],
+      "Nicaragua": [
+        "Nicarágua"
+      ],
+      "Niger": [
+        "Níger"
+      ],
+      "Nigeria": [
+        "Nigéria"
+      ],
+      "Niue": [
+        "Niue"
+      ],
+      "Norfolk Island": [
+        "Ilha Norfolk"
+      ],
+      "North Korea": [
+        "Coreia do Norte"
+      ],
+      "North Macedonia": [
+        "Macedónia do Norte"
+      ],
+      "Northern Mariana Islands": [
+        "Ilhas Marianas do Norte"
+      ],
+      "Norway": [
+        "Noruega"
+      ],
+      "Oman": [
+        "Omã"
+      ],
+      "Pakistan": [
+        "Paquistão"
+      ],
+      "Palau": [
+        "Palau"
+      ],
+      "Palestine": [
+        "Palestina"
+      ],
+      "Panama": [
+        "Panamá"
+      ],
+      "Papua New Guinea": [
+        "Papua Nova Guiné"
+      ],
+      "Paraguay": [
+        "Paraguai"
+      ],
+      "Peru": [
+        "Peru"
+      ],
+      "Philippines": [
+        "Filipinas"
+      ],
+      "Pitcairn": [
+        "Pitcairn"
+      ],
+      "Poland": [
+        "Polónia"
+      ],
+      "Portugal": [
+        "Portugal"
+      ],
+      "Puerto Rico": [
+        "Porto Rico"
+      ],
+      "Qatar": [
+        "Qatar"
+      ],
+      "Reunion": [
+        "Reunião"
+      ],
+      "Romania": [
+        "Roménia"
+      ],
+      "Russia": [
+        "Rússia"
+      ],
+      "Rwanda": [
+        "Ruanda"
+      ],
+      "Saint Barthélemy": [
+        "São Bartolomeu"
+      ],
+      "Saint Helena": [
+        "Santa Helena"
+      ],
+      "Saint Kitts and Nevis": [
+        "Saint Kitts e Nevis"
+      ],
+      "Saint Lucia": [
+        "Santa Lúcia"
+      ],
+      "Saint Martin (French Part)": [
+        "Saint Martin (parte francesa)"
+      ],
+      "Saint Pierre and Miquelon": [
+        "São Pedro e Miquelão"
+      ],
+      "Saint Vincent and the Grenadines": [
+        "Saint Vincent e Grenadines"
+      ],
+      "Samoa": [
+        "Samoa"
+      ],
+      "San Marino": [
+        "São Marino"
+      ],
+      "Sao Tome and Principe": [
+        "São Tomé e Príncipe"
+      ],
+      "Saudi Arabia": [
+        "Arábia Saudita"
+      ],
+      "Senegal": [
+        "Senegal"
+      ],
+      "Serbia": [
+        "Sérvia"
+      ],
+      "Seychelles": [
+        "Seicheles"
+      ],
+      "Sierra Leone": [
+        "Serra Leoa"
+      ],
+      "Singapore": [
+        "Singapura"
+      ],
+      "Sint Maarten": [
+        "São Martinho (Países Baixos)"
+      ],
+      "Slovakia": [
+        "Eslováquia"
+      ],
+      "Slovenia": [
+        "Eslovénia"
+      ],
+      "Solomon Islands": [
+        "Ilhas Salomão"
+      ],
+      "Somalia": [
+        "Somália"
+      ],
+      "South Africa": [
+        "África do Sul"
+      ],
+      "South Georgia and the South Sandwich Islands": [
+        "Geórgia do Sul e Ilhas Sandwich do Sul"
+      ],
+      "South Korea": [
+        "Coreia do Sul"
+      ],
+      "South Ossetia": [
+        "Ossétia do Sul"
+      ],
+      "South Sudan": [
+        "Sudão Sul"
+      ],
+      "Spain": [
+        "Espanha"
+      ],
+      "Sri Lanka": [
+        "Sri Lanka"
+      ],
+      "Sudan": [
+        "Sudão"
+      ],
+      "Suriname": [
+        "Suriname"
+      ],
+      "Svalbard and Jan Mayen": [
+        "Svalbard e Jan Mayen"
+      ],
+      "Sweden": [
+        "Suécia"
+      ],
+      "Switzerland": [
+        "Suíça"
+      ],
+      "Syria": [
+        "Síria"
+      ],
+      "Taiwan": [
+        "Taiwan"
+      ],
+      "Tajikistan": [
+        "Tajiquistão"
+      ],
+      "Tanzania": [
+        "Tanzânia"
+      ],
+      "Thailand": [
+        "Tailândia"
+      ],
+      "Timor-Leste": [
+        "Timor-Leste"
+      ],
+      "Togo": [
+        "Togo"
+      ],
+      "Tokelau": [
+        "Toquelau"
+      ],
+      "Tonga": [
+        "Tonga"
+      ],
+      "Trinidad and Tobago": [
+        "Trinidad e Tobago"
+      ],
+      "Tristan da Cunha": [
+        "Tristão da Cunha"
+      ],
+      "Tunisia": [
+        "Tunísia"
+      ],
+      "Turkey": [
+        "Turquia"
+      ],
+      "Turkmenistan": [
+        "Turquemenistão"
+      ],
+      "Turks and Caicos Islands": [
+        "Ilhas Turcas e Caicos"
+      ],
+      "Tuvalu": [
+        "Tuvalu"
+      ],
+      "Uganda": [
+        "Uganda"
+      ],
+      "Ukraine": [
+        "Ucrânia"
+      ],
+      "United Arab Emirates": [
+        "Emirados Árabes Unidos"
+      ],
+      "United Kingdom": [
+        "Reino Unido"
+      ],
+      "United States": [
+        "Estados Unidos"
+      ],
+      "United States Minor Outlying Islands": [
+        "Ilhas Menores Distantes dos Estados Unidos"
+      ],
+      "Uruguay": [
+        "Uruguai"
+      ],
+      "Uzbekistan": [
+        "Uzbequistão"
+      ],
+      "Vanuatu": [
+        "Vanuatu"
+      ],
+      "Venezuela": [
+        "Venezuela"
+      ],
+      "Vietnam": [
+        "Vietname"
+      ],
+      "Virgin Islands, British": [
+        "Ilhas Virgens, Inglesas"
+      ],
+      "Virgin Islands, U.S.": [
+        "Ilhas Virgens, Americanas"
+      ],
+      "Wallis and Futuna": [
+        "Wallis e Futuna"
+      ],
+      "Western Sahara": [
+        "Saará Ocidental"
+      ],
+      "Yemen": [
+        "Iémen"
+      ],
+      "Zambia": [
+        "Zâmbia"
+      ],
+      "Zimbabwe": [
+        "Zimbabué"
+      ],
+      "Åland Islands": [
+        "Ilhas Åland"
+      ]
+    },
+    "Credits": {
+      "Available credits": [
+        "Créditos disponíveis"
+      ]
+    },
+    "Cycle": {
+      "/month": [
+        "/mês"
+      ],
+      "/user per month": [
+        "/utilizador por mês"
+      ]
+    },
+    "Delinquent modal title": {
+      "Overdue invoice": [
+        "Factura em dívida"
+      ]
+    },
+    "Error": {
+      "Amount above the maximum.": [
+        "Quantia acima do máximo."
+      ],
+      "Amount below minimum.": [
+        "Quantia abaixo do mínimo."
+      ],
+      "Code wrong or not valid anymore": [
+        "Código errado ou não válido"
+      ],
+      "Domain not available, try again later": [
+        "Domínio indisponível, tente novamente mais tarde"
+      ],
+      "Email is not valid": [
+        "O correio electrónico não é válido."
+      ],
+      "Enter 6 digits": [
+        "Insira 6 algarismos"
+      ],
+      "Error connecting to the Bitcoin API.": [
+        "Erro ao ligar à API do Bitcoin."
+      ],
+      "If the time on your TV has expired, click on Refresh on your TV and enter your code again.": [
+        "Se o tempo na sua TV expirou, clique em Atualizar na sua TV e insira o seu código novamente."
+      ],
+      "Incorrect login credentials. Please try again.": [
+        "Credenciais de início de sessão incorrectas. Tente novamente."
+      ],
+      "Incorrect mailbox password. Please try again.": [
+        "Palavra-passe da caixa de correio incorrecta. Tente novamente."
+      ],
+      "Invalid ${ name } code": [
+        "Código ${ name } não válido"
+      ],
+      "Invalid card number": [
+        "Número de cartão não válido"
+      ],
+      "Invalid code": [
+        "Código não válido"
+      ],
+      "Invalid expiration date": [
+        "Data de validade não válida"
+      ],
+      "Invalid postal code": [
+        "Código postal não válido"
+      ],
+      "Invalid verification code": [
+        "Código de verificação não válido"
+      ],
+      "Name on card required": [
+        "É necessário o nome no cartão"
+      ],
+      "Not a valid number": [
+        "Número não válido"
+      ],
+      "Passwords do not match": [
+        "As palavras-passe não coincidem."
+      ],
+      "Payment process consumed": [
+        "Processo de pagamento concluído"
+      ],
+      "Payment process failed": [
+        "O processo de pagamento falhou"
+      ],
+      "Payment process not supported": [
+        "Processo de pagamento não suportado"
+      ],
+      "Payments are currently not available, please try again later": [
+        "Os pagamentos não estão atualmente disponíveis. Tente novamente mais tarde."
+      ],
+      "Please set a recovery email first": [
+        "Defina primeiro um correio electrónico de recuperação."
+      ],
+      "Please set a recovery phone number first": [
+        "Defina um número de telefone de recuperação."
+      ],
+      "Process aborted": [
+        "Processo abortado"
+      ],
+      "Request timed out": [
+        "O pedido expirou"
+      ],
+      "Signature verification failed": [
+        "Falha ao verificar a assinatura"
+      ],
+      "Something went wrong, please ${ refresh } in order to proceed. If you still see this error message please contact our ${ supportTeam }.": [
+        "Ocorreu um problema. ${ refresh } para continuar. Se ainda vir esta mensagem de erro, contacte a nossa ${ supportTeam }."
+      ],
+      "Tab closed": [
+        "Separador fechado"
+      ],
+      "The email addresses do not match": [
+        "Os endereços de correio electrónico não coincidem."
+      ],
+      "The minimum amount of credit that can be added is ${ price }": [
+        "O montante mínimo de crédito que pode ser adicionado é ${ price }"
+      ],
+      "The minimum amount that can be donated is ${ price }": [
+        "A quantia mínima que pode ser doada é ${ price }"
+      ],
+      "The minimum payment we accept is ${ price }": [
+        "O pagamento mínimo que aceitamos é ${ price }"
+      ],
+      "This field is required": [
+        "Este campo é requerido"
+      ],
+      "This field requires a minimum of ${ minimumLength } characters.": [
+        "Este campo requer um mínimo de ${ minimumLength } caracteres."
+      ],
+      "Try using only letters, numerals, and _.-": [
+        "Tente utilizar apenas letras, números e _.-"
+      ],
+      "Unknown error": [
+        "Erro desconhecido"
+      ],
+      "Unknown payment token status": [
+        "Estado do símbolo de pagamento desconhecido"
+      ],
+      "You have no invoices.": [
+        "Não tem facturas."
+      ]
+    },
+    "Error message": {
+      "Error: ${ errorMessage }": [
+        "Erro: ${ errorMessage }"
+      ],
+      "Oops, something went wrong": [
+        "Ups. Algo correu mal"
+      ],
+      "Something went wrong": [
+        "Ocorreu um erro"
+      ]
+    },
+    "Error notification in the bug report modal when the user upload file": {
+      "No image selected": [
+        "Nenhuma imagem seleccionada"
+      ]
+    },
+    "familyOffer_2023: Deal details": {
+      "3 TB total storage": [
+        "3 TB de armazenamento total"
+      ]
+    },
+    "familyOffer_2023: Get Proton Family": {
+      "Get ${ planName }": [
+        "Obter o ${ planName }"
+      ]
+    },
+    "familyOffer_2023:Action": {
+      "Got it": [
+        "Entendido"
+      ]
+    },
+    "familyOffer_2023:Deal details": {
+      "Premium Drive": [
+        "Drive premium"
+      ],
+      "Premium VPN": [
+        "VPN premium"
+      ],
+      "Up to 6 users": [
+        "Até 6 utilizadores"
+      ]
+    },
+    "familyOffer_2023:Family plan": {
+      "${ BRAND_NAME } groups": [
+        "Grupos do ${ BRAND_NAME }"
+      ],
+      "customer support": [
+        "apoio ao cliente"
+      ]
+    },
+    "familyOffer_2023:Get Proton Family": {
+      "Get ${ planName }": [
+        "Obter o ${ planName }"
+      ]
+    },
+    "Feature": {
+      "Access to all countries": [
+        "Acesso a todos os países"
+      ],
+      "Connection for up to ${ plusVpnConnections } device": [
+        "Ligação para ${ plusVpnConnections } dispositivo",
+        "Ligação para até ${ plusVpnConnections } dispositivos"
+      ],
+      "Fastest VPN servers": [
+        "Servidores VPN mais rápidos"
+      ],
+      "Secure Core servers": [
+        "Servidores Secure Core"
+      ],
+      "Secure streaming support": [
+        "Suporte seguro a transmissão"
+      ],
+      "Torrenting support (P2P)": [
+        "Suporte a torrents (P2P)"
+      ]
+    },
+    "fido2: Info": {
+      "Security key": [
+        "Chave de segurança"
+      ],
+      "Verify your identity with a physical U2F or FIDO2 security key": [
+        "Verifique a sua identidade com uma chave de segurança física U2F ou FIDO2."
+      ]
+    },
+    "fido2: Label": {
+      "Security key": [
+        "Chave de segurança"
+      ]
+    },
+    "file size format": {
+      "byte": [
+        "byte",
+        "bytes"
+      ],
+      "GB": [
+        "GB"
+      ],
+      "KB": [
+        "KB"
+      ],
+      "MB": [
+        "MB"
+      ]
+    },
+    "file size format, long": {
+      "Byte": [
+        "Byte",
+        "Bytes"
+      ],
+      "Gigabyte": [
+        "Gigabyte",
+        "Gigabytes"
+      ],
+      "Kilobyte": [
+        "Kilobyte",
+        "Kilobytes"
+      ],
+      "Megabyte": [
+        "Megabyte",
+        "Megabytes"
+      ]
+    },
+    "Frequency of news": {
+      "(1 email per month)": [
+        "(1 correio electrónico por mês)"
+      ],
+      "(1 email per quarter)": [
+        "(1 correio electrónico por trimestre)"
+      ],
+      "(1-2 emails per month)": [
+        "(1 a 2 correios electrónicos por mês)"
+      ]
+    },
+    "Go to sign in": {
+      "Already have an account? ${ signIn }": [
+        "Já tem uma conta? ${ signIn }"
+      ]
+    },
+    "Group": {
+      "Account": [
+        "Conta"
+      ],
+      "Apps": [
+        "Aplicações"
+      ],
+      "Network": [
+        "Rede"
+      ],
+      "Other category": [
+        "Outra categoria"
+      ],
+      "Services": [
+        "Serviços"
+      ]
+    },
+    "Header": {
+      "Get help": [
+        "Obter ajuda"
+      ]
+    },
+    "Human verification method": {
+      "Email": [
+        "Correio electronico"
+      ],
+      "Manual": [
+        "Manual"
+      ],
+      "No verification method available": [
+        "Nenhum método de verificação disponível"
+      ]
+    },
+    "Info": {
+      "${ appName } needs your permission to ${ enableDesktopNotifications }.": [
+        "O ${ appName } precisa da sua permissão para ${ enableDesktopNotifications }."
+      ],
+      "${ fileName }: full-size image": [
+        "${ fileName }: imagem em tamanho máximo"
+      ],
+      "${ fileName }: low-resolution preview": [
+        "${ fileName }: pré-visualização de baixa resolução"
+      ],
+      "${ MAIL_APP_NAME } can also be used with a single password which replaces both the login and mailbox password. To switch to single password mode, enter the single password you would like to use and click Save.": [
+        "${ MAIL_APP_NAME } pode também ser usado com uma única palavra-passe que substitui ambas as palavras-passe de início de sessão e caixa de correio. Para mudar para o modo de uma única palavra-passe, digite a palavra-passe única que gostaria de usar e clique em salvar."
+      ],
+      "${ number } city": [
+        "${ number } cidade",
+        "${ number } cidades"
+      ],
+      "${ number } server": [
+        "${ number } servidor",
+        "${ number } servidores"
+      ],
+      "${ vpnPlus } required for Country level connection.": [
+        "É requerida ${ vpnPlus } para ligação a nível de país."
+      ],
+      "${ vpnPlus } required for Secure Core feature.": [
+        "${ vpnPlus } ou $ requeridos para a funcionalidade Secure Core."
+      ],
+      "+${ bonusSpace } bonus storage": [
+        "+ ${ bonusSpace } de armazenamento extra"
+      ],
+      "+${ organization.BonusVPN } connection for ${ VPN_APP_NAME } (allows you to connect more devices to VPN)": [
+        "+${ organization.BonusVPN } ligação para o ${ VPN_APP_NAME } (permite ligar mais dispositivos à VPN)",
+        "+${ organization.BonusVPN } ligações para o ${ VPN_APP_NAME } (permite ligar mais dispositivos à VPN)"
+      ],
+      "A phone number can only be used to verify one ${ BRAND_NAME } account": [
+        "Um número de telemóvel pode ser usado para verificar apenas uma conta ${ BRAND_NAME }"
+      ],
+      "Account access restricted due to unpaid invoices. Please contact your administrator.": [
+        "O acesso à conta restringido devido a facturas por pagar. Contacte o administrador."
+      ],
+      "Account successfully updated": [
+        "Conta atualizada"
+      ],
+      "Add another layer of security to your account. You’ll need to verify yourself with 2FA every time you sign in.": [
+        "Adicione outro nível de segurança à sua conta. Terá de se verificar com uma autenticação A2F cada vez que entrar na sua conta."
+      ],
+      "After making your Bitcoin payment, please follow the instructions below to upgrade.": [
+        "Após efectuar o seu pagamento com BitCoin, siga as instruções abaixo para atualizar."
+      ],
+      "All your changes will be lost.": [
+        "Todas as suas alterações serão perdidas."
+      ],
+      "Amount below minimum (${ amount }).": [
+        "Quantia abaixo do mínimo (${ amount })."
+      ],
+      "Are you sure you want to disable two-factor authentication?": [
+        "Tem certeza de que deseja desativar a autenticação em dois passos?"
+      ],
+      "Are you sure you want to discard your changes?": [
+        "Tem a certeza de que deseja descartar as alterações?"
+      ],
+      "Attention required": [
+        "Atenção Requerida"
+      ],
+      "Basic, Plus or Visionary subscription required": [
+        "Requerida subscrição Basic, Plus ou Visionary"
+      ],
+      "Before requesting a new verification code, check your spam folder and check that ${ strong } is the correct address.": [
+        "Antes de pedir um novo código de verificação, verifique a sua pasta de spam’ e verifique que ${ strong } é o endereço correto."
+      ],
+      "Bitcoin transactions can take some time to be confirmed (up to 24 hours). Once confirmed, we will add credits to your account. After transaction confirmation, you can pay your invoice with the credits.": [
+        "As transacções em Bitcoin podem levar algum tempo a ser confirmadas (até 24 horas). Uma vez confirmadas, adicionaremos créditos à sua conta. Após a confirmação da transacção, pode pagar a sua factura com os créditos."
+      ],
+      "By downgrading to a Free plan, you will permanently lose these benefits, even if you upgrade again in the future.": [
+        "Ao regredir para um plano gratuito, perderá permanentemente estes benefícios, mesmo que venha a atualizar de novo no futuro."
+      ],
+      "By leaving now, changes may not be saved": [
+        "Se sair agora, as alterações podem não ficar gravadas"
+      ],
+      "Choose the look and feel of the application.": [
+        "Escolha a aparência da aplicação."
+      ],
+      "Click \"Request new code\" to have a new verification code sent to ${ strong }. If this phone number is incorrect, click \"Edit\" to correct it.": [
+        "Clique em \"Pedir novo código\" para receber um novo código de verificação em ${ strong }. Se o telefone estiver incorrecto, clique em \"Editar\" para o corrigir."
+      ],
+      "Country code": [
+        "Código de país"
+      ],
+      "Creating your account": [
+        "A criar a sua conta"
+      ],
+      "Credit for the unused portion of your previous plan subscription": [
+        "Crédito pela parte não utilizada no plano anterior da sua assinatura"
+      ],
+      "Do not use the OpenVPN / IKEv2 credentials in ${ VPN_APP_NAME } applications or on the ${ VPN_APP_NAME } dashboard. ${ learnMore }": [
+        "Não use as credenciais OpenVPN/IKEv2 nas aplicações ${ VPN_APP_NAME } ou no painel do ${ VPN_APP_NAME }. ${ learnMore }"
+      ],
+      "Downgrading will terminate any connections to paid ${ VPN_APP_NAME } servers.": [
+        "A regressão terminará todas as ligações a servidores pagos do ${ VPN_APP_NAME }."
+      ],
+      "Download your favorite app today and take privacy with you everywhere you go.": [
+        "Transfira hoje a sua aplicação favorita e usufrua de privacidade onde quer que vá."
+      ],
+      "Each code can only be used once": [
+        "Cada código só pode ser usado uma vez"
+      ],
+      "Emailing preference saved": [
+        "Preferências do correio electronico atualizadas"
+      ],
+      "Enter key manually instead": [
+        "Inserir a chave manualmente"
+      ],
+      "Enter the code from your authenticator app": [
+        "Introduza o código da sua aplicação de autenticação."
+      ],
+      "Enter the code sent to your phone number ${ phone }.": [
+        "Insira o código enviado para o seu número de telefone ${ phone }."
+      ],
+      "Enter the code that was sent to ${ email }. If you can't find the message in your inbox, please check your spam folder.": [
+        "Insira o código enviado para ${ email }. Se não encontrar a mensagem na sua caixa de entrada, verifique a pasta de spam."
+      ],
+      "Enter the verification code that was sent to ${ destinationText }.": [
+        "Insira o código de verificação que foi enviado para ${ destinationText }."
+      ],
+      "Enter verification code. Digit ${ digit }.": [
+        "Introduzir o código de verificação. Digite ${ digit }."
+      ],
+      "Enter your own password (as organization admin).": [
+        "Insira a sua palavra-passe (como administrador da organização)."
+      ],
+      "Enter your recovery email address and we will send you your username or email address.": [
+        "Insira o seu correio electrónico de recuperação e receberá o seu nome de utilizador ou endereço de correio electrónico."
+      ],
+      "Enter your recovery phone number and we will send you your username or email address.": [
+        "Insira o seu telefone de recuperação e receberá o seu nome de utilizador ou endereço de correio electrónico."
+      ],
+      "Expired": [
+        "Expirado"
+      ],
+      "Free up some space or add more storage space.": [
+        "Liberte algum espaço ou adicione mais espaço de armazenamento."
+      ],
+      "Free up some space or contact your administrator.": [
+        "Liberte algum espaço ou contacte um administrador."
+      ],
+      "here": [
+        "aqui"
+      ],
+      "If you are having trouble creating your account, please request an invitation and we will respond within one business day.": [
+        "Se tiver problemas ao criar a conta, solicite um convite e responderemos dentro de um dia útil."
+      ],
+      "If you believe this is in error, please contact us ${ contactLink }.": [
+        "Se acredita que houve um erro, contacte-nos em ${ contactLink }."
+      ],
+      "If you don't find the email in your inbox, please check your spam folder.": [
+        "Se não encontrar o correio electrónico na sua caixa de entrada, verifique a pasta de spam."
+      ],
+      "If you have a gift code, enter it below to apply your discount.": [
+        "Se tiver um código de oferta, insira-o abaixo para aplicar o desconto."
+      ],
+      "If you have never used two-factor authentication before, we strongly recommend you ${ guideButton }.": [
+        "Se nunca utilizou autenticação em dois passos antes, recomendamos vivamente ${ guideButton }."
+      ],
+      "If you proceed with the downgrade, you will lose access to ${ VPN_APP_NAME } paid features.": [
+        "Se continuar com a regressão, perderá o acesso às funcionalidades pagas do ${ VPN_APP_NAME }."
+      ],
+      "If you wish to combine this account with another one, do NOT delete it.": [
+        "Se deseja combinar esta conta com outra, NÃO a elimine."
+      ],
+      "Important: Please make sure you save the recovery codes. Otherwise you can permanently lose access to your account if you lose your two-factor authentication device.": [
+        "Importante: certifique-se de que dispõe dos códigos de recuperação. Senão, se perder o seu dispositivo 2FA, pode perder permanentemente o acesso à sua conta."
+      ],
+      "Install a Country configuration file to connect to a random server in the country of your choice.": [
+        "Instale um ficheiro de configuração do país para ligar a um servidor aleatório no país à sua escolha."
+      ],
+      "Install a Free server configuration file to connect to a specific server in one of the three free locations.": [
+        "Instale um ficheiro de configuração de um servidor Free para ligar a um servidor específico numa das três localizações disponíveis."
+      ],
+      "Install a Secure Core configuration file to benefit from an additional protection against VPN endpoint compromise.": [
+        "Instale um ficheiro de configuração Secure Core para beneficiar de protecção adicional contra compromissos no ponto final da VPN."
+      ],
+      "Install a Server configuration file to connect to a specific server in the country of your choice.": [
+        "Instale um ficheiro de configuração do servidor para ligar a um servidor específico num país à sua escolha."
+      ],
+      "Internet connection lost": [
+        "Ligação à Internet perdida"
+      ],
+      "Internet connection lost. Please check your device's connectivity.": [
+        "Ligação à Internet perdida. Verifique a ligação do seu dispositivo."
+      ],
+      "Internet connection restored.": [
+        "Ligação à Internet reposta."
+      ],
+      "Learn more": [
+        "Saiba mais"
+      ],
+      "Link copied to clipboard": [
+        "Ligação copiada para a área de transferência"
+      ],
+      "Loading": [
+        "A carregar"
+      ],
+      "Loading ${ appName }": [
+        "A carregar ${ appName }"
+      ],
+      "Loading preview": [
+        "A carregar antevisão"
+      ],
+      "Loading...": [
+        "A carregar..."
+      ],
+      "Manually enter this information into your two-factor authentication device to set up your account. ${ switchButton }.": [
+        "Introduza manualmente esta informação no seu dispositivo de autenticação de dois factores para configurar a sua conta. ${ switchButton }."
+      ],
+      "No payment is required at this time.": [
+        "Nenhum pagamento é necessário neste momento."
+      ],
+      "No results found": [
+        "Nenhum resultado"
+      ],
+      "of": [
+        "de"
+      ],
+      "One account. All ${ BRAND_NAME } services.": [
+        "Uma conta. Todos os serviços da ${ BRAND_NAME }."
+      ],
+      "Payments are protected with TLS encryption and Swiss privacy laws.": [
+        "Os pagamentos são protegidos através de encriptação TLS e pelas leis de privacidade suíças."
+      ],
+      "Plan upgrade required": [
+        "Atualização do plano requerida"
+      ],
+      "Please note that upon clicking the Confirm button, your account will have ${ creditsRemaining } credits remaining.": [
+        "Note que ao clicar em Confirmar a sua conta terá ${ creditsRemaining } créditos restantes."
+      ],
+      "Please provide an email address in case we need to contact you.": [
+        "Forneça um endereço de correio electrónico, caso necessitemos de o contactar."
+      ],
+      "Please try again, use a different payment method, or contact PayPal for assistance.": [
+        "Tente novamente com um método de pagamento diferente, ou contacte o PayPal para assistência."
+      ],
+      "Please verify payment at the new tab which was opened.": [
+        "Verifique o pagamento no separador que abriu."
+      ],
+      "Please wait till your changes are synced with the server.": [
+        "Por favor espere até as suas mudanças estarem sincronizadas com o servidor."
+      ],
+      "Plus or Visionary subscription required": [
+        "Requerida subscrição Plus ou Visionary"
+      ],
+      "Preview failed to be loaded": [
+        "Falha no carregamento da pré-visualização"
+      ],
+      "Preview for this file type is not supported": [
+        "A pré-visualização deste tipo de arquivo não é suportada"
+      ],
+      "Priority support": [
+        "Apoio ao cliente prioritário"
+      ],
+      "Recovery information will remain on this device unless you select to delete it.": [
+        "Informação de recuperação ficará neste aparelho a não ser que escolha apagá-lo."
+      ],
+      "Refreshing the page or ${ link } will automatically resolve most issues.": [
+        "Atualizar a página ou ${ link } resolve automaticamente a maioria dos problemas."
+      ],
+      "Restore": [
+        "Restaurar"
+      ],
+      "Scan QR code instead": [
+        "Ler antes código QR"
+      ],
+      "Scan this code with your two-factor authentication device to set up your account. ${ switchButton }.": [
+        "Leia este código com o seu dispositivo de autenticação em dois passos para configurar a sua conta. ${ switchButton }."
+      ],
+      "Server is currently down": [
+        "O servidor está em baixo"
+      ],
+      "Server load": [
+        "Carga do servidor"
+      ],
+      "Servers are unreachable. Please try again in a few minutes": [
+        "Os servidores estão inacessíveis. Por favor, tente novamente dentro de alguns minutos"
+      ],
+      "Session timed out": [
+        "A sessão expirou."
+      ],
+      "Since you're a loyal user, your account has additional features enabled.": [
+        "Sendo utilizador(a) leal, a sua conta dispõe de funcionalidades adicionais."
+      ],
+      "support team": [
+        "equipa de assistência"
+      ],
+      "These configuration files let you choose which ${ VPN_APP_NAME } server you connect to when using a third-party VPN app or setting up a VPN connection on a router.": [
+        "Estes ficheiros de configuração permitem escolher o servidor ${ VPN_APP_NAME } a que ligar ao usar uma aplicação de VPN de terceiros ou ao configurar uma ligação VPN num router."
+      ],
+      "This account has been suspended due to a potential policy violation.": [
+        "Esta conta foi suspensa devido a uma potencial violação da política."
+      ],
+      "This browser does not support previewing PDF documents. Please download the file.": [
+        "Este navegador não suporta a antevisão de documentos PDF. Transfira o ficheiro."
+      ],
+      "This can take a few seconds or a few minutes depending on your device": [
+        "Pode demorar alguns segundos ou alguns minutos dependendo do seu dispositivo"
+      ],
+      "This will cancel your current paid subscription and you will lose any loyalty benefits you have accumulated. The remaining balance of your subscription will be returned as account credits.": [
+        "Isto cancelará a sua assinatura paga atual e perderá qualquer benefício de fidelidade acumulado. O saldo restante da sua assinatura será devolvido como créditos na conta."
+      ],
+      "This will permanently delete your account and all of its data. You will not be able to reactivate this account.": [
+        "Isto vai eliminar permanentemente a sua conta e todos os seus dados. Não poderá reativar esta conta."
+      ],
+      "This will replace your temporary password. You will use it to access your ${ BRAND_NAME } Account in the future.": [
+        "Isto substituirá a sua palavra-passe temporária. Utilize-a para aceder à sua conta ${ BRAND_NAME } no futuro."
+      ],
+      "to continue to ${ toAppName }": [
+        "para continuar para ${ toAppName }"
+      ],
+      "To fight spam and abuse, please verify you are human.": [
+        "Para combater o spam e abusos, confirme que é um ser humano."
+      ],
+      "To keep up with the latest development at ${ BRAND_NAME } products, you can subscribe to our various emails and visit our blog from time to time.": [
+        "Para se manter atualizado com o último desenvolvimento dos produtos ${ BRAND_NAME }, pode subscrever os nossos vários correios electrónicos e visitar o nosso blog de vez em quando."
+      ],
+      "Top up your account with credits that you can use to subscribe to a new plan or renew your current plan. You get one credit for every ${ i18nCurrency } spent.": [
+        "Recarregue a sua conta com créditos que poderá utilizar para subscrever um novo plano ou renovar o plano atual. Recebe um crédito por cada ${ i18nCurrency } gasto."
+      ],
+      "Total email addresses": [
+        "Total de endereços electrónicos"
+      ],
+      "Total storage": [
+        "Total de armazenamento"
+      ],
+      "Total supported domains": [
+        "Total de domínios suportados"
+      ],
+      "Total VPN connections": [
+        "Total de conexões VPN"
+      ],
+      "Two-factor authentication disabled": [
+        "Autenticação em dois passos desativada"
+      ],
+      "Two-factor authentication enabled": [
+        "Autenticação em dois passos ativada"
+      ],
+      "Two-password mode requires two passwords: one to sign in to your account and one to decrypt your mailbox. (Advanced)": [
+        "O modo de senha dupla requer duas senhas: uma para iniciar a sessão e outra para desencriptar a caixa de correio (avançado)."
+      ],
+      "Two-password mode uses separate passwords for login and mailbox decryption. This provides a minor security benefit in some situations, however we recommend one-password mode for most users. To switch to two password mode, first set a login password and then set a mailbox password.": [
+        "O modo de duas palavras-passe usa palavras-passe separadas para iniciar a sessão e desencriptar a caixa de correio. Isto proporciona um pequeno benefício na segurança em algumas situações, no entanto, recomendamos o modo de palavra-passe única para a maioria dos utilizadores. Para mudar para o modo de duas palavras-passe, primeiro insira a palavra-passe para o início de sessão e depois para a caixa de correio."
+      ],
+      "Unfortunately there is no recovery method saved for this account.": [
+        "Infelizmente não há método de recuperação definido para esta conta."
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Pastas, etiquetas e filtros ilimitados"
+      ],
+      "Unsaved changes": [
+        "Alterações não gravadas"
+      ],
+      "Unsupported file": [
+        "Ficheiro não suportado"
+      ],
+      "Upgrade now to get premium features, products and storage at a special price": [
+        "Atualize agora para ter acesso a recursos, produtos e armazenamento premium por um preço especial"
+      ],
+      "Verification can take a few minutes.": [
+        "A verificação pode levar alguns minutos."
+      ],
+      "Verification will open a new tab, please disable any popup blockers. You will not be charged. Any amount used to verify the card will be refunded immediately.": [
+        "A verificação abrirá um novo separador, desative os bloqueadores de janelas. Nada lhe será cobrado. Qualquer valor utilizado para verificar o cartão será imediatamente devolvido."
+      ],
+      "Verify your identity with a time-based one-time password from an authenticator app": [
+        "Verifique a sua identidade com uma palavra-passe única com duração limitada a partir de uma aplicação autenticadora."
+      ],
+      "Version ${ version }": [
+        "Versão ${ version }"
+      ],
+      "Warning: deletion is permanent. This also removes access to all connected services and deletes all of your contacts.": [
+        "Aviso: a eliminação é permanente. Remove também o acesso a todos os serviços ligados e elimina todos os contactos."
+      ],
+      "We use 3-D Secure to protect your payments.": [
+        "Utilizamos 3-D Secure para proteger os seus pagamentos."
+      ],
+      "We will redirect you to PayPal in a new browser tab to complete this transaction. If you use any pop-up blockers, please disable them to continue.": [
+        "A página será redireccionada para um novo separador PayPal no seu navegador, para concluir a transacção. Se utiliza bloqueadores de janelas, desative-os."
+      ],
+      "We'll send a new verification code to ${ strong }": [
+        "Enviaremos um novo código de verificação para ${ strong }"
+      ],
+      "When you set up two-factor authentication, we provide recovery codes which you can use to sign in if you lose access to your authenticator app.": [
+        "Após a configuração da autenticação de dois fatores, serão fornecidos códigos de recuperação que poderá usar para se autenticar, no caso de perder o acesso à aplicação de autenticação."
+      ],
+      "When your subscription renews, we will apply any available credits before we charge the payment method above.": [
+        "Quando a subscrição for renovada, aplicaremos quaisquer créditos disponíveis antes de usarmos o método de pagamento acima."
+      ],
+      "Would you like to receive a new verification code or use an alternative verification method?": [
+        "Deseja receber um novo código de verificação ou usar um método de verificação alternativo?"
+      ],
+      "Would you like to receive a new verification code?": [
+        "Gostaria de receber um novo código de verificação?"
+      ],
+      "You already have a free account": [
+        "Já tem uma conta gratuita"
+      ],
+      "You are currently signed in as ${ user.Name } (${ user.Email }).": [
+        "Tem atualmente sessão iniciada como ${ user.Name } (${ user.Email })."
+      ],
+      "You can customize and download your invoices for accounting purposes.": [
+        "Pode personalizar e transferir as suas facturas para efeitos contabilísticos."
+      ],
+      "You did not set a recovery method so account recovery is impossible if you forget your password. Proceed without recovery method?": [
+        "Não definiu um método de recuperação, a recuperação da conta será impossível se se esquecer da palavra-passe. Deseja continuar sem um método de recuperação?"
+      ],
+      "You have no saved payment methods.": [
+        "Não tem métodos de pagamento gravados."
+      ],
+      "You must have a credit card or bank account linked with your PayPal account in order to add it as a payment method.": [
+        "Tem de ter um cartão de crédito ou conta bancária vinculada à sua conta PayPal para poder adicioná-la como método de pagamento."
+      ],
+      "You must have a credit card or bank account linked with your PayPal account. If your PayPal account doesn't have that, please click on the button below.": [
+        "Tem de ter um cartão de crédito ou uma conta bancária vinculados à sua conta PayPal. Se não o tem, clique no botão abaixo."
+      ],
+      "You reached ${ spaceDisplayed }% of your storage capacity. ${ freeUpMessage } ${ upgradeLink }": [
+        "Atingiu ${ spaceDisplayed }% da sua capacidade de armazenamento. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You reached 100% of your storage capacity. You cannot send or receive new emails. ${ freeUpMessage } ${ upgradeLink }": [
+        "Atingiu os 100% da sua capacidade de armazenamento. Não pode enviar ou receber novos correios electrónicos. ${ freeUpMessage } ${ upgradeLink }"
+      ],
+      "You will need a ${ BRAND_NAME } address to use ${ MAIL_APP_NAME } and ${ CALENDAR_APP_NAME }": [
+        "Precisará de um endereço da ${ BRAND_NAME } para usar o ${ MAIL_APP_NAME } e ${ CALENDAR_APP_NAME }"
+      ],
+      "You will soon be redirected to PayPal to verify your payment.": [
+        "Será brevemente redireccionado para o PayPal para verificar o pagamento."
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. After 28 days, emails will no longer be delivered to your inbox, your Drive sharing links will be blocked, and you will not be able to upload new files. To resume normal service, please pay any overdue invoices.": [
+        "A sua conta ${ BRAND_NAME } de momento está suspensa. Após 28 dias, os correios electrónicos deixarão de ser entregues na sua caixa de entrada, as suas ligações de partilha de disco serão bloqueadas, e não poderá carregar novos ficheiros. Para retomar o serviço normal, pague quaisquer faturas em atraso."
+      ],
+      "Your ${ BRAND_NAME } account is currently suspended. Emails are no longer being delivered to your inbox. Your Drive sharing links are no longer active, and you cannot upload new files. To continue using your account, please pay any overdue invoices.": [
+        "A sua conta ${ BRAND_NAME } está suspensa de momento. Não receberá e-mails na sua caixa de entrada. Os seus links de partilha do Drive estão inativos e não pode fazer upload de novos arquivos. Para continuar a usar sua conta, efetue o pagamento das faturas vencidas."
+      ],
+      "Your account has at least one overdue invoice. Your access will soon get restricted. ${ payInvoiceLink }": [
+        "A sua conta tem pelo menos uma factura em atraso. O acesso em breve será restrito. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your account is restricted, and all services are now blocked until payment. ${ payInvoiceLink }": [
+        "A sua conta tem pelo menos uma fatura vencida. A sua conta está restrita e todos os serviços estão bloqueados até o pagamento. ${ payInvoiceLink }"
+      ],
+      "Your account has at least one overdue invoice. Your account is restricted. Continued non-payment will block your emails and sharing links. ${ payInvoiceLink }": [
+        "A sua conta tem pelo menos uma fatura vencida. A sua conta é restrita. O não pagamento regular bloqueará os seus e-mails e links de partilha. ${ payInvoiceLink }"
+      ],
+      "Your account will be updated once the payment is cleared.": [
+        "A conta será atualizada assim que o pagamento for aprovado."
+      ],
+      "Your email will only be used for this one-time verification.": [
+        "O seu correio electrónico só será usado para esta verificação única."
+      ],
+      "Your payment details are protected with TLS encryption and Swiss privacy laws.": [
+        "Os seus detalhes de pagamento estão protegidos por encriptação TLS e pelas leis de privacidade suíças."
+      ],
+      "Your phone number will only be used for this one-time verification.": [
+        "O seu telefone só será usado para esta verificação única."
+      ],
+      "Your subscription is managed by Mozilla. Please contact Mozilla support.": [
+        "A sua subscrição é gerida pela Mozilla. Contacte o suporte da Mozilla."
+      ]
+    },
+    "Info for cash payment method": {
+      "Please contact us at ${ email } for instructions on how to pay us with cash.": [
+        "Contacte-nos em ${ email } para obter instruções sobre como pagar em dinheiro."
+      ]
+    },
+    "Info for payment methods": {
+      "You can add a payment method to have your subscription renewed automatically. Other payment methods are also available.": [
+        "Pode adicionar um método de pagamento para renovar a assinatura automaticamente. Também estão disponíveis outros métodos de pagamento."
+      ]
+    },
+    "Info message for custom invoice modal": {
+      "Add your name (or company name) and address to your invoices.": [
+        "Adicione o seu nome (ou nome da empresa) e endereço para as suas facturas."
+      ]
+    },
+    "Info when deleting payment method": {
+      "To avoid any service interruption due to unpaid invoices, please make sure that you have at least 1 valid payment method saved at any point in time.": [
+        "Para evitar qualquer interrupção do serviço devido a facturas por pagar. Certifique-se de que tem pelo menos 1 método de pagamento válido gravado em qualquer altura no passado."
+      ]
+    },
+    "Invoice state display as badge": {
+      "Billed": [
+        "Facturado"
+      ],
+      "Paid": [
+        "Paga"
+      ],
+      "Unpaid": [
+        "Por pagar"
+      ],
+      "Void": [
+        "Anulada"
+      ]
+    },
+    "Invoice type display as badge": {
+      "Addition": [
+        "Adição"
+      ],
+      "Cancellation": [
+        "Cancelamento"
+      ],
+      "Chargeback": [
+        "Reembolso"
+      ],
+      "Credit": [
+        "Crédito"
+      ],
+      "Donation": [
+        "Donativo"
+      ],
+      "Modification": [
+        "Modificação"
+      ],
+      "Other": [
+        "Outro"
+      ],
+      "Refund": [
+        "Reembolso"
+      ],
+      "Renewal": [
+        "Renovação"
+      ],
+      "Subscription": [
+        "Subscrição"
+      ]
+    },
+    "Label": {
+      "${ BRAND_NAME } email or username": [
+        "Correio electrónico ou nome de usuário do ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } username": [
+        "Nome de usuário do ${ BRAND_NAME }"
+      ],
+      "${ humanUsedSpace } of ${ humanMaxSpace }": [
+        "${ humanUsedSpace } de ${ humanMaxSpace }"
+      ],
+      "${ MAIL_APP_NAME } address": [
+        "Endereço ${ MAIL_APP_NAME }"
+      ],
+      "${ n } month": [
+        "${ n } mês",
+        "${ n } meses"
+      ],
+      "Allow recovery by email": [
+        "Permitir recuperação por correio electrónico"
+      ],
+      "Allow recovery by phone": [
+        "Permitir recuperação por telefone"
+      ],
+      "Amount": [
+        "Quantia"
+      ],
+      "Amount due": [
+        "Quantia devida"
+      ],
+      "Attach screenshot(s)": [
+        "Anexar capturas de ecrã"
+      ],
+      "Authenticator app": [
+        "Aplicação de autenticação"
+      ],
+      "Billing cycle": [
+        "Ciclo de faturação"
+      ],
+      "Browser": [
+        "Navegador"
+      ],
+      "Browser version": [
+        "Versão do navegador"
+      ],
+      "BTC address:": [
+        "Endereço BTC:"
+      ],
+      "BTC amount:": [
+        "Quantia BTC:"
+      ],
+      "Card holder": [
+        "Titular do cartão"
+      ],
+      "Card number": [
+        "Número do cartão"
+      ],
+      "Cash": [
+        "Dinheiro"
+      ],
+      "Category": [
+        "Categoria"
+      ],
+      "Code": [
+        "Código"
+      ],
+      "Confirm login password": [
+        "Confirme a nova palavra-passe"
+      ],
+      "Confirm mailbox password": [
+        "Confirme a palavra-passe da caixa de correio"
+      ],
+      "Confirm new password": [
+        "Confirmar a nova palavra-passe"
+      ],
+      "Copy": [
+        "Copiar"
+      ],
+      "Could you please specify?": [
+        "Poderia especificar?"
+      ],
+      "Country": [
+        "País"
+      ],
+      "Credits used": [
+        "Créditos usados"
+      ],
+      "Current display name": [
+        "Nome a mostrar atual"
+      ],
+      "Customize invoices": [
+        "Personalizar facturas"
+      ],
+      "Default language": [
+        "Idioma predefinido"
+      ],
+      "Delete": [
+        "Eliminar"
+      ],
+      "Digits": [
+        "Algarismos"
+      ],
+      "Display name": [
+        "Nome a mostrar"
+      ],
+      "Email address": [
+        "Endereço de correio electrónico"
+      ],
+      "Email or username": [
+        "Email ou utilizador"
+      ],
+      "Enter the code displayed on your TV": [
+        "Insira o código mostrado na sua TV"
+      ],
+      "Expiration date": [
+        "Data de validade"
+      ],
+      "Expires": [
+        "Expira"
+      ],
+      "Gift code": [
+        "Código de oferta"
+      ],
+      "Hide password": [
+        "Ocultar a palavra-passe"
+      ],
+      "Interval": [
+        "Intervalo"
+      ],
+      "Key": [
+        "Chave"
+      ],
+      "Mailbox password": [
+        "Palavra-passe da caixa de correio"
+      ],
+      "Main": [
+        "Principal"
+      ],
+      "Moderate NAT": [
+        "NAT moderado"
+      ],
+      "Name on card": [
+        "Nome no cartão"
+      ],
+      "NAT-PMP (Port Forwarding)": [
+        "NAT-PMP (Encaminhamento de porta)"
+      ],
+      "Navigation": [
+        "Navegação"
+      ],
+      "New display name": [
+        "Novo nome a mostrar"
+      ],
+      "New login password": [
+        "Nova palavra-passe de início"
+      ],
+      "New mailbox password": [
+        "Nova palavra-passe da caixa de correio"
+      ],
+      "New password": [
+        "Nova palavra-passe"
+      ],
+      "Non-standard ports": [
+        "Portas não padrão"
+      ],
+      "OpenVPN / IKEv2 password": [
+        "Palavra-passe OpenVPN/IKEv2"
+      ],
+      "OpenVPN / IKEv2 username": [
+        "Utilizador OpenVPN/IKEv2"
+      ],
+      "Operating system": [
+        "Sistema operativo"
+      ],
+      "Operating system version": [
+        "Versão do sistema operativo"
+      ],
+      "Optional": [
+        "Opcional"
+      ],
+      "Other amount": [
+        "Outro valor"
+      ],
+      "Password": [
+        "Palavra-passe"
+      ],
+      "Payer": [
+        "Pagante"
+      ],
+      "Payment details": [
+        "Detalhes de pagamento"
+      ],
+      "Payment method": [
+        "Método de pagamento"
+      ],
+      "Phone number": [
+        "Número de telefone"
+      ],
+      "Postal code": [
+        "Código postal"
+      ],
+      "Proration": [
+        "Repartição"
+      ],
+      "Recovery email address": [
+        "Correio electrónico de recuperação"
+      ],
+      "Recovery phone number": [
+        "Número de telefone de recuperação"
+      ],
+      "Recovery phrase": [
+        "Frase de recuperação"
+      ],
+      "Repeat password": [
+        "Repita a palavra-passe"
+      ],
+      "Reveal password": [
+        "Mostrar a palavra-passe"
+      ],
+      "Security code": [
+        "Código de segurança"
+      ],
+      "Select your country": [
+        "Escolha o seu país"
+      ],
+      "Start date": [
+        "Data inicial"
+      ],
+      "Subscription options": [
+        "Opções da subscrição"
+      ],
+      "System information": [
+        "Informação do sistema"
+      ],
+      "Two-password mode": [
+        "Modo palavra-passe dupla"
+      ],
+      "Use a recovery phone number": [
+        "Utilizar um número de telefone de recuperação"
+      ],
+      "User's new password": [
+        "Nova palavra-passe do utilizador"
+      ],
+      "Username": [
+        "Nome de utilizador"
+      ],
+      "Verification code": [
+        "Código de verificação"
+      ],
+      "We are sorry to see you go. Please explain why you are leaving to help us improve.": [
+        "Lamentamos a sua partida. Diga-nos porquê, para podermos melhorar o serviço."
+      ],
+      "What happened?": [
+        "O que é que aconteceu?"
+      ],
+      "What is the main reason you are canceling?": [
+        "Qual é a principal razão do cancelamento?"
+      ],
+      "What is the main reason you are deleting your account?": [
+        "Qual o principal motivo pelo qual está a eliminar a conta?"
+      ],
+      "Yes, I want to permanently delete this account and all its data.": [
+        "Sim, quero eliminar permanentemente esta conta e todos os seus dados."
+      ],
+      "Your password (admin)": [
+        "A sua palavra-passe (admin)"
+      ]
+    },
+    "label": {
+      "Recovery phone number": [
+        "Número de telefone de recuperação"
+      ]
+    },
+    "Label for news": {
+      "${ BRAND_NAME } beta announcements": [
+        "Comunicados do ${ BRAND_NAME } beta"
+      ],
+      "${ BRAND_NAME } company announcements": [
+        "Anúncios da empresa ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } for Business newsletter": [
+        "Boletim da ${ BRAND_NAME } for Business"
+      ],
+      "${ BRAND_NAME } newsletter": [
+        "Boletim da ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } offers and promotions": [
+        "Ofertas e promoções da ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } product announcements": [
+        "Anúncios de produtos da ${ BRAND_NAME }"
+      ],
+      "${ BRAND_NAME } welcome emails": [
+        "Correios electronicos de boas-vindas da ${ BRAND_NAME }"
+      ]
+    },
+    "Label on payment method": {
+      "Default": [
+        "Predefinição"
+      ],
+      "Expired": [
+        "Expirado"
+      ]
+    },
+    "Link": {
+      "Add a gift code": [
+        "Adicionar código de oferta"
+      ],
+      "clearing your browser cache": [
+        "limpar a memória do navegador"
+      ],
+      "click here": [
+        "clique aqui"
+      ],
+      "Common sign in issues": [
+        "Problemas de ligação comuns"
+      ],
+      "Common sign up issues": [
+        "Problemas de registo comuns"
+      ],
+      "Forgot username?": [
+        "Esqueceu o nome de utilizador?"
+      ],
+      "Learn more": [
+        "Saiba mais"
+      ],
+      "Need help?": [
+        "Precisa de ajuda?"
+      ],
+      "Pay invoice": [
+        "Pagar factura"
+      ],
+      "Privacy policy": [
+        "Política de privacidade"
+      ],
+      "Request an invite": [
+        "Pedir um convite"
+      ],
+      "Reset password": [
+        "Reinicializar a palavra-passe"
+      ],
+      "Sign in": [
+        "Iniciar sessão"
+      ],
+      "Terms": [
+        "Termos"
+      ],
+      "Upgrade account": [
+        "Atualizar conta"
+      ],
+      "View guide": [
+        "Ver guia"
+      ],
+      "What is the difference between UDP and TCP protocols?": [
+        "Qual é a diferença entre os protocolos UDP e TCP?"
+      ],
+      "What’s this?": [
+        "O que é isto?"
+      ]
+    },
+    "Message display when a new app version is available": {
+      "A new version of ${ appName } is available. ${ reloadButton }.": [
+        "Está disponível uma nova versão de ${ appName }. ${ reloadButton }."
+      ]
+    },
+    "Monetary unit": {
+      "Dollar": [
+        "Dólar"
+      ],
+      "Swiss franc": [
+        "Franco suíço"
+      ]
+    },
+    "new_plans": {
+      "Highest VPN speed": [
+        "Velocidade VPN máxima"
+      ],
+      "Medium VPN speed": [
+        "Velocidade VPN média"
+      ]
+    },
+    "new_plans: action": {
+      "Delete account": [
+        "Eliminar conta"
+      ],
+      "Got it": [
+        "Entendido"
+      ],
+      "Switch or add account": [
+        "Trocar ou adicionar conta"
+      ]
+    },
+    "new_plans: Action": {
+      "From ${ price } per user": [
+        "A partir de ${ price } por utilizador"
+      ],
+      "Upgrade now": [
+        "Atualizar agora"
+      ]
+    },
+    "new_plans: feature": {
+      "${ n } calendar": [
+        "${ n } calendário",
+        "${ n } calendários"
+      ],
+      "${ n } custom email domain": [
+        "${ n } domínio de correio electrónico personalizado",
+        "${ n } domínios de correio electrónico personalizados"
+      ],
+      "${ n } email address": [
+        "${ n } endereço de correio electrónico",
+        "${ n } endereços de correio electrónico/aliases"
+      ],
+      "${ n } filter": [
+        "${ n } filtro",
+        "${ n } filtros"
+      ],
+      "${ n } folder": [
+        "${ n } pasta",
+        "${ n } pastas"
+      ],
+      "${ n } label": [
+        "${ n } etiqueta",
+        "${ n } etiquetas"
+      ],
+      "${ n } message per day": [
+        "${ n } mensagem por dia",
+        "${ n } mensagens por dia"
+      ],
+      "${ n } VPN connection": [
+        "${ n } ligação VPN",
+        "${ n } ligações VPN"
+      ],
+      "${ size } attachment size": [
+        "Anexos de ${ size }"
+      ],
+      "${ size } storage": [
+        "${ size } de armazenamento"
+      ],
+      "${ size } storage per user": [
+        "${ size } de armazenamento por utilizador"
+      ],
+      "Advanced sharing security": [
+        "Segurança avançada de partilha"
+      ],
+      "Auto-reply": [
+        "Resposta automática"
+      ],
+      "Calendar sharing": [
+        "Partilha de calendário"
+      ],
+      "Catch-all": [
+        "Catch-all"
+      ],
+      "Contact groups": [
+        "Grupos de contactos"
+      ],
+      "Custom email domains": [
+        "Domínios de correio electrónico personalizados"
+      ],
+      "DNS leak prevention": [
+        "Proteção contra vazamento de DNS"
+      ],
+      "Easy Switch import assistant": [
+        "Assistente de importação Easy Switch"
+      ],
+      "Email client support (via IMAP/SMTP)": [
+        "Suporte a clientes de correio electrónico (por IMAP/SMTP)"
+      ],
+      "Encrypted contact details": [
+        "Detalhes de contacto encriptados"
+      ],
+      "Encrypted VPN servers": [
+        "Servidores VPN criptografados"
+      ],
+      "End-to-end encryption": [
+        "Criptografia de ponta a ponta"
+      ],
+      "HTML signatures": [
+        "Assinaturas HTML"
+      ],
+      "Kill switch/always-on VPN": [
+        "Kill switch/VPN sempre ligada"
+      ],
+      "Limited support": [
+        "Apoio ao cliente limitado"
+      ],
+      "Password-protected Emails": [
+        "Correios electrónicos protegidos por palavra-passe"
+      ],
+      "Priority support": [
+        "Apoio ao cliente prioritário"
+      ],
+      "Router support": [
+        "Suporte para router"
+      ],
+      "Secure Core servers": [
+        "Servidores Secure Core"
+      ],
+      "Send & receive invitations": [
+        "Enviar e receber convites"
+      ],
+      "Share files and folders via link": [
+        "Compartilhe arquivos e pastas com uma ligação"
+      ],
+      "Split tunneling (Android and Windows)": [
+        "Tunelamento dividido (Android e Windows)"
+      ],
+      "Strict no-logs policy": [
+        "Política estrita sem diários"
+      ],
+      "Team management": [
+        "Gestão de equipa"
+      ],
+      "Tor over VPN": [
+        "Tor sobre VPN"
+      ],
+      "Two-factor authentication": [
+        "Autenticação em dois passos"
+      ],
+      "Unlimited filters": [
+        "Filtros ilimitados"
+      ],
+      "Unlimited folders": [
+        "Pastas ilimitadas"
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Pastas, etiquetas e filtros ilimitados"
+      ],
+      "Unlimited labels": [
+        "Etiquetas ilimitadas"
+      ],
+      "Unlimited messages per day": [
+        "Mensagens ilimitadas por dia"
+      ],
+      "Unlimited volume/bandwidth": [
+        "Largura de banda e volume ilimitados"
+      ],
+      "Up to ${ totalStorageSize } storage": [
+        "Até ${ totalStorageSize } de armazenamento"
+      ]
+    },
+    "new_plans: heading": {
+      "Support": [
+        "Apoio ao cliente"
+      ],
+      "Team management": [
+        "Gestão de equipa"
+      ]
+    },
+    "new_plans: info": {
+      "Comprehensive privacy and security with all ${ BRAND_NAME } services combined.": [
+        "Privacidade e segurança abrangentes com todos os serviços da ${ BRAND_NAME } combinados."
+      ],
+      "Privacy and security suite for businesses, including all premium ${ BRAND_NAME } services.": [
+        "Pacote de privacidade e segurança para empresas, incluindo todos os serviços premium da ${ BRAND_NAME }."
+      ],
+      "Secure cloud storage that lets you store, sync, and share files easily and securely.": [
+        "Armazenamento em nuvem seguro que permite armazenar, sincronizar e compartilhar arquivos com facilidade e segurança."
+      ],
+      "Secure email and calendar for professionals and businesses.": [
+        "Correio electrónico e calendário seguros para profissionais e empresas."
+      ],
+      "Secure email with advanced features for your everyday communications.": [
+        "Correio electrónico seguro com características avançadas para as suas comunicações diárias."
+      ],
+      "The dedicated VPN solution that provides secure, unrestricted, high-speed access to the internet.": [
+        "A solução de VPN dedicada que oferece acesso seguro, irrestrito e de alta velocidade à internet."
+      ],
+      "The no-cost starter account designed to empower everyone with privacy by default.": [
+        "A conta inicial gratuita criada para oferecer privacidade a todos por defeito."
+      ]
+    },
+    "new_plans: Label": {
+      "${ humanUsedSpace } of ${ humanMaxSpace }": [
+        "${ humanUsedSpace } de ${ humanMaxSpace }"
+      ]
+    },
+    "new_plans: Plan frequency": {
+      "/month": [
+        "/mês"
+      ]
+    },
+    "new_plans: signup": {
+      "By creating a ${ BRAND_NAME } account, you agree to our ${ terms }": [
+        "Ao criar uma conta ${ BRAND_NAME }, concorda com nossos ${ terms }"
+      ],
+      "Subscription": [
+        "Subscrição"
+      ],
+      "terms and conditions": [
+        "termos e condições"
+      ]
+    },
+    "new_plans: title": {
+      "Review subscription and pay": [
+        "Reveja a subscrição e pague"
+      ]
+    },
+    "new_plans: Title": {
+      "${ mailPlanName } Trial": [
+        "Teste do ${ mailPlanName }"
+      ]
+    },
+    "new_plans: Upsell attribute": {
+      "${ storageSize } total storage": [
+        "${ storageSize } de armazenamento total"
+      ],
+      "Priority support": [
+        "Apoio ao cliente prioritário"
+      ],
+      "Unlimited folders, labels, and filters": [
+        "Pastas, etiquetas e filtros ilimitados"
+      ]
+    },
+    "Notification": {
+      "OpenVPN / IKEv2 credentials regenerated": [
+        "Credenciais OpenVPN/IKEv2 regeneradas"
+      ]
+    },
+    "Onboarding": {
+      "Welcome to ${ VPN_APP_NAME }": [
+        "Boas-vindas ao ${ VPN_APP_NAME }"
+      ]
+    },
+    "Option": {
+      "Country configs": [
+        "Configurações do país"
+      ],
+      "Free server configs": [
+        "Configurações do servidor Free"
+      ],
+      "I found another service that I like better": [
+        "Encontrei outro serviço de que gosto mais"
+      ],
+      "It's missing a key feature that I need": [
+        "Falta uma funcionalidade-chave de que eu necessito"
+      ],
+      "It's too expensive": [
+        "É muito caro"
+      ],
+      "My reason isn't listed": [
+        "O motivo não está na lista"
+      ],
+      "Secure Core configs": [
+        "Configurações Secure Core"
+      ],
+      "Standard server configs": [
+        "Configurações padrão do servidor"
+      ]
+    },
+    "Payment method option": {
+      "New credit/debit card": [
+        "Novo cartão de crédito/débito"
+      ]
+    },
+    "Placeholder": {
+      "A way to contact you": [
+        "Uma forma de o contactar"
+      ],
+      "Add gift code": [
+        "Adicionar código de oferta"
+      ],
+      "Confirm": [
+        "Confirmar"
+      ],
+      "Email address": [
+        "Endereço de correio electrónico"
+      ],
+      "Feedback": [
+        "Comentários"
+      ],
+      "Gift code": [
+        "Código de oferta"
+      ],
+      "Other": [
+        "Outro"
+      ],
+      "Password": [
+        "Palavra-passe"
+      ],
+      "Please describe the problem and include any error messages": [
+        "Descreva o problema e inclua quaisquer mensagens de erro."
+      ],
+      "Select": [
+        "Selecionar"
+      ],
+      "Select a reason": [
+        "Seleccione um motivo"
+      ]
+    },
+    "Placeholder for custom invoice text": {
+      "Add your name (or company name) and address to your invoices": [
+        "Adicione o seu nome (ou o da empresa) e morada às facturas"
+      ]
+    },
+    "plan customizer, users": {
+      "contact": [
+        "contacto"
+      ]
+    },
+    "Price": {
+      "Free": [
+        "Gratuito"
+      ]
+    },
+    "Recovery Email": {
+      "Cancel": [
+        "Cancelar"
+      ],
+      "Email address has been verified.": [
+        "O endereço de correio electrónico foi verificado."
+      ],
+      "Verify now": [
+        "Verificar agora"
+      ]
+    },
+    "Recovery method": {
+      "Phone number": [
+        "Número de telefone"
+      ],
+      "Phrase": [
+        "Frase"
+      ]
+    },
+    "Recovery Phone": {
+      "Cancel": [
+        "Cancelar"
+      ],
+      "Phone number has been verified.": [
+        "O número de telefone foi verificado."
+      ],
+      "Phone number not yet verified.": [
+        "O número de telefone ainda não está verificado."
+      ],
+      "Verify now": [
+        "Verificar agora"
+      ]
+    },
+    "Shared calendar; Info about calendar owner": {
+      "Created by ${ ownerName }": [
+        "Criado por ${ ownerName }"
+      ]
+    },
+    "Signup label": {
+      "Display name": [
+        "Nome a mostrar"
+      ],
+      "Username": [
+        "Utilizador"
+      ]
+    },
+    "Signup step": {
+      "Account setup": [
+        "Configuração da conta"
+      ],
+      "Payment": [
+        "Pagamento"
+      ],
+      "Verification": [
+        "Verificação"
+      ]
+    },
+    "specialoffer: Action": {
+      "Close": [
+        "Fechar"
+      ],
+      "Don't show this offer again": [
+        "Não mostrar esta oferta novamente"
+      ],
+      "Special offer": [
+        "Oferta especial"
+      ]
+    },
+    "specialoffer: Countdown unit": {
+      "${ days } day": [
+        "${ days } dia",
+        "${ days } dias"
+      ],
+      "${ hours } hour": [
+        "${ hours } hora",
+        "${ hours } horas"
+      ],
+      "${ minutes } minute": [
+        "${ minutes } minuto",
+        "${ minutes } minutos"
+      ],
+      "${ seconds } second": [
+        "${ seconds } segundo",
+        "${ seconds } segundos"
+      ]
+    },
+    "specialoffer: Deal details": {
+      "3 TB": [
+        "3 TB"
+      ],
+      "6 users": [
+        "6 utilizadores"
+      ],
+      "64 countries": [
+        "64 países"
+      ],
+      "High speed VPN": [
+        "VPN de alta velocidade"
+      ],
+      "Premium Drive": [
+        "Drive premium"
+      ],
+      "Premium Mail, Calendar and Drive": [
+        "Mail, Calendar e Drive premium"
+      ],
+      "Premium VPN": [
+        "VPN premium"
+      ]
+    },
+    "specialoffer: Label": {
+      "Most popular": [
+        "Mais popular"
+      ]
+    },
+    "specialoffer: Link": {
+      "Upgrade": [
+        "Actualizar"
+      ]
+    },
+    "specialoffer: Offers": {
+      "/ month": [
+        "/ mês"
+      ],
+      "1 year": [
+        "1 ano"
+      ],
+      "2 years": [
+        "2 anos"
+      ]
+    },
+    "State": {
+      "Downgrading your account, please wait": [
+        "Aguarde. Estamos a modificar a sua conta."
+      ]
+    },
+    "Storage": {
+      "Release notes": [
+        "Notas de lançamento"
+      ],
+      "Upgrade storage": [
+        "Atualizar armazenamento"
+      ],
+      "Your current storage:": [
+        "O seu armazenamento atual:"
+      ]
+    },
+    "Subscription attribute": {
+      "${ maxVpn } high-speed VPN connection": [
+        "${ maxVpn } ligação VPN de alta velocidade",
+        "${ maxVpn } ligações VPN de alta velocidade"
+      ],
+      "${ n } calendar": [
+        "${ n } calendário",
+        "${ n } calendários"
+      ],
+      "${ n } calendar per user": [
+        "${ n } calendário por utilizador",
+        "${ n } calendários por utilizador"
+      ],
+      "${ n } high-speed VPN connection": [
+        "${ n } ligação VPN de alta velocidade",
+        "${ n } ligações VPN de alta velocidade"
+      ],
+      "${ n } VPN connection": [
+        "${ n } ligação VPN",
+        "${ n } ligações VPN"
+      ],
+      "${ UsedAddresses } address": [
+        "${ UsedAddresses } endereço",
+        "${ UsedAddresses } endereços"
+      ],
+      "${ UsedAddresses } of ${ MaxAddresses } email address": [
+        "${ UsedAddresses } de ${ MaxAddresses } endereço electrónico",
+        "${ UsedAddresses } de ${ MaxAddresses } endereços electrónicos"
+      ],
+      "${ UsedDomains } of ${ MaxDomains } custom domain": [
+        "${ UsedDomains } de ${ MaxDomains } domínio personalizado",
+        "${ UsedDomains } de ${ MaxDomains } domínios personalizados"
+      ],
+      "${ UsedMembers } of ${ MaxMembers } user": [
+        "${ UsedMembers } de ${ MaxMembers } utilizador",
+        "${ UsedMembers } de ${ MaxMembers } utilizadores"
+      ],
+      "1 email address": [
+        "1 endereço de correio electrónico"
+      ],
+      "1 VPN connection": [
+        "1 ligação VPN"
+      ],
+      "Built-in ad blocker (NetShield)": [
+        "Bloqueador integrado (NetShield)"
+      ]
+    },
+    "Subscription price": {
+      "For": [
+        "Por"
+      ]
+    },
+    "Subscription saving": {
+      "Save": [
+        "Poupe"
+      ]
+    },
+    "Success": {
+      "Bug reported": [
+        "Erro reportado"
+      ],
+      "Code sent to ${ methodTo }": [
+        "Código enviado para ${ methodTo }"
+      ],
+      "Credits added": [
+        "Créditos adicionados"
+      ],
+      "Email address copied to clipboard": [
+        "Endereço copiado para a área de transferência"
+      ],
+      "Email updated": [
+        "Correio eletrónico atualizado"
+      ],
+      "Gift code applied": [
+        "Código de oferta aplicado"
+      ],
+      "If you entered a valid recovery email we will send you an email with your usernames in the next minute.": [
+        "Se inseriu um email de recuperação válido, enviar-lhe-emos um correio electrónico com o seu nome de utilizador no próximo minuto."
+      ],
+      "If you entered a valid recovery phone we will send you an sms with your usernames in the next minute.": [
+        "Se inseriu um telefone de recuperação válido, enviar-lhe-emos uma mensagem com o seu nome de utilizador no próximo minuto."
+      ],
+      "Invoice customized": [
+        "Factura personalizada"
+      ],
+      "Invoice paid": [
+        "Factura paga"
+      ],
+      "Locale updated": [
+        "Idioma atualizado"
+      ],
+      "Password updated": [
+        "Palavra-passe atualizada"
+      ],
+      "Payment method added": [
+        "Método de pagamento adicionado"
+      ],
+      "Payment method deleted": [
+        "Método de pagamento eliminado"
+      ],
+      "Payment method updated": [
+        "Método de pagamento atualizado"
+      ],
+      "Phone number updated": [
+        "Número de telefone atualizado"
+      ],
+      "Verification successful": [
+        "A verificação é terminada."
+      ],
+      "You have successfully unsubscribed": [
+        "A sua subscrição foi cancelada."
+      ]
+    },
+    "Suffix": {
+      "/month": [
+        "/mês"
+      ],
+      "/user per month": [
+        "/utilizador por mês"
+      ]
+    },
+    "Tab subscription modal": {
+      "For businesses": [
+        "Para empresas"
+      ],
+      "For individuals": [
+        "Para indivíduos"
+      ]
+    },
+    "TableHeader": {
+      "Action": [
+        "Acção"
+      ],
+      "City": [
+        "Cidade"
+      ],
+      "Country": [
+        "País"
+      ],
+      "Name": [
+        "Nome"
+      ],
+      "Status": [
+        "Estado"
+      ]
+    },
+    "Themes": {
+      "Themes": [
+        "Temas"
+      ]
+    },
+    "Title": {
+      "${ VPN_APP_NAME } clients": [
+        "Clientes ${ VPN_APP_NAME }"
+      ],
+      "1. Select platform": [
+        "1. Seleccionar plataforma"
+      ],
+      "2. Select platform": [
+        "2. Seleccionar plataforma"
+      ],
+      "2. Select protocol": [
+        "2. Seleccionar protocolo"
+      ],
+      "3. Select config file and download": [
+        "3. Seleccionar configuração e transferir"
+      ],
+      "Account": [
+        "Conta"
+      ],
+      "Account suspended": [
+        "Conta suspensa"
+      ],
+      "Action": [
+        "Acção"
+      ],
+      "Add credit/debit card": [
+        "Adicionar cartão de crédito/débito"
+      ],
+      "Add credits": [
+        "Adicionar créditos"
+      ],
+      "Add invoice details": [
+        "Adicionar detalhes da factura"
+      ],
+      "Add PayPal payment method": [
+        "Adicionar pagamento com PayPal"
+      ],
+      "Amount": [
+        "Quantia"
+      ],
+      "Amount due": [
+        "Quantia devida"
+      ],
+      "Apply gift code": [
+        "Aplicar código de oferta"
+      ],
+      "Are you sure you want to close the preview?": [
+        "Tem a certeza de que deseja fechar a pré-visualização?"
+      ],
+      "Back": [
+        "Recuar"
+      ],
+      "Billing cycle": [
+        "Ciclo de facturação"
+      ],
+      "Card verification": [
+        "Verificação do cartão"
+      ],
+      "Change login password": [
+        "Alterar a palavra-passe de início de sessão"
+      ],
+      "Change mailbox password": [
+        "Alterar a palavra-passe da caixa de correio"
+      ],
+      "Change password": [
+        "Alterar a palavra-passe"
+      ],
+      "Confirm address": [
+        "Confirmar endereço"
+      ],
+      "Confirm phone number": [
+        "Confirmar número de telefone"
+      ],
+      "Congratulations on choosing privacy!": [
+        "Parabéns por escolher a privacidade!"
+      ],
+      "Create your ${ BRAND_NAME } Account": [
+        "Crie a sua conta da ${ BRAND_NAME }"
+      ],
+      "Credits": [
+        "Créditos"
+      ],
+      "Currency": [
+        "Moeda"
+      ],
+      "Customize your plan": [
+        "Personalize o seu plano"
+      ],
+      "Dashboard": [
+        "Painel"
+      ],
+      "Date": [
+        "Data"
+      ],
+      "Delete": [
+        "Eliminar"
+      ],
+      "Delete account": [
+        "Eliminar conta"
+      ],
+      "Device connected!": [
+        "Dispositivo ligado!"
+      ],
+      "Disable two-factor authentication": [
+        "Desativar autenticação em dois passos"
+      ],
+      "Downgrade account": [
+        "Regredir conta"
+      ],
+      "Downloads": [
+        "Transferências"
+      ],
+      "Duration": [
+        "Duração"
+      ],
+      "Edit credit/debit card": [
+        "Editar cartão de crédito/débito"
+      ],
+      "Edit display name": [
+        "Editar o nome a mostrar"
+      ],
+      "Email subscriptions": [
+        "Boletins informativos"
+      ],
+      "End date": [
+        "Data de fim"
+      ],
+      "Enter your password": [
+        "Insira a sua palavra-passe"
+      ],
+      "Error": [
+        "Erro"
+      ],
+      "Find email or username": [
+        "Encontrar correio electrónico ou utilizador"
+      ],
+      "General": [
+        "Geral"
+      ],
+      "Get ${ vpnPlus } to access all servers": [
+        "Obtenha o ${ vpnPlus } para aceder a todos os servidores"
+      ],
+      "Gift code": [
+        "Código de oferta"
+      ],
+      "Human verification": [
+        "Verificação humana"
+      ],
+      "Invalid verification code": [
+        "Código de verificação não válido"
+      ],
+      "Invoices": [
+        "Facturas"
+      ],
+      "Language": [
+        "Idioma"
+      ],
+      "Login password": [
+        "Palavra-passe de início de sessão"
+      ],
+      "Network error": [
+        "Erro de rede"
+      ],
+      "Next": [
+        "Seguinte"
+      ],
+      "No recovery method": [
+        "Nenhum método de recuperação"
+      ],
+      "Open actions dropdown": [
+        "Abrir lista de acções"
+      ],
+      "Open help menu": [
+        "Abrir menu de ajuda"
+      ],
+      "Open pagination": [
+        "Abrir paginação"
+      ],
+      "OpenVPN / IKEv2 username": [
+        "Utilizador OpenVPN/IKEv2"
+      ],
+      "OpenVPN configuration files": [
+        "Ficheiros de configuração OpenVPN"
+      ],
+      "Password": [
+        "Palavra-passe"
+      ],
+      "Pay invoice": [
+        "Pagar factura"
+      ],
+      "Payment methods": [
+        "Métodos de pagamento"
+      ],
+      "Payment verification": [
+        "Verificação do pagamento"
+      ],
+      "Payments": [
+        "Pagamentos"
+      ],
+      "PayPal verification failed": [
+        "Falha na verificação PayPal"
+      ],
+      "Phone": [
+        "Telefone"
+      ],
+      "Plan summary": [
+        "Resumo do plano"
+      ],
+      "Plans": [
+        "Planos"
+      ],
+      "Preview": [
+        "Pré-visualização"
+      ],
+      "Previous": [
+        "Anterior"
+      ],
+      "Processing...": [
+        "A processar..."
+      ],
+      "Recommended": [
+        "Recomendado"
+      ],
+      "Recovery": [
+        "Recuperação"
+      ],
+      "Report a problem": [
+        "Relatar um problema"
+      ],
+      "Request new code": [
+        "Pedir novo código"
+      ],
+      "Reset password": [
+        "Reinicializar a palavra-passe"
+      ],
+      "Reset password?": [
+        "Reinicializar a palavra-passe?"
+      ],
+      "Save contact details": [
+        "Guardar detalhes do contacto"
+      ],
+      "Select a plan": [
+        "Seleccione um plano"
+      ],
+      "Set new password": [
+        "Definir nova palavra-passe"
+      ],
+      "Set up two-factor authentication": [
+        "Configurar autenticação em dois passos"
+      ],
+      "Settings": [
+        "Definições"
+      ],
+      "Sign in": [
+        "Iniciar sessão"
+      ],
+      "Sign in with 2FA": [
+        "Autenticação com 2FA"
+      ],
+      "Sign out": [
+        "Terminar sessão"
+      ],
+      "Start date": [
+        "Data de início"
+      ],
+      "Status": [
+        "Estado"
+      ],
+      "Switch to one-password mode": [
+        "Mudar para modo de palavra-passe única"
+      ],
+      "Switch to two-password mode": [
+        "Mudar para modo de palavra-passe dupla"
+      ],
+      "Total paid": [
+        "Total pago"
+      ],
+      "Two-factor authentication": [
+        "Autenticação em dois passos"
+      ],
+      "Type": [
+        "Tipo"
+      ],
+      "Unlock your mailbox": [
+        "Desbloqueie a sua caixa de correio"
+      ],
+      "Unsupported browser": [
+        "Navegador não suportado"
+      ],
+      "Users": [
+        "Utilizadores"
+      ],
+      "Verification": [
+        "Verificação"
+      ],
+      "Warning": [
+        "Aviso"
+      ],
+      "What's new": [
+        "O que há de novo"
+      ],
+      "Your changes are not synced yet": [
+        "As suas alterações ainda não foram sincronizadas"
+      ],
+      "Your current plan": [
+        "O seu plano atual"
+      ],
+      "Your Mail Plus free trial ends on ${ textDate }": [
+        "O seu teste gratuito do Mail Plus finaliza em ${ textDate }"
+      ],
+      "Your plan": [
+        "O seu plano"
+      ],
+      "Your subscriptions": [
+        "As suas assinaturas"
+      ]
+    },
+    "Title for payment methods table": {
+      "Actions": [
+        "Acções"
+      ],
+      "Method": [
+        "Método"
+      ],
+      "Status": [
+        "Estado"
+      ]
+    },
+    "Title for PDF file": {
+      "${ MAIL_APP_NAME } invoice": [
+        "Fatura ${ MAIL_APP_NAME }"
+      ]
+    },
+    "Tooltip": {
+      "If you purchased a gift code or received one from our support team, you can enter it here.": [
+        "Se adquiriu um código de oferta ou recebeu um da nossa equipa de suporte, insira-o aqui."
+      ],
+      "The new subscription cycle starts on ${ formattedTime }": [
+        "O novo ciclo de subscrição começa em ${ formattedTime }"
+      ]
+    },
+    "Validation": {
+      "Password must contain at least ${ length } character": [
+        "A palavra-passe deve conter pelo menos ${ length } caracteres",
+        "A palavra-passe deve conter pelo menos ${ length } caracteres."
+      ],
+      "Try a shorter username (${ n } character max)": [
+        "Tente um nome de utilizador mais pequeno (máximo de caracter ${ n })",
+        "Tente um nome de utilizador mais pequeno (máximo de caracteres ${ n })"
+      ]
+    },
+    "VPN info": {
+      "Netflix, Amazon Prime Video, BBC iPlayer, ESPN+, Disney+, HBO Now, and more.": [
+        "Netflix, Amazon Prime Vídeo, BBC iPlayer, ESPN+, Disney+, HBO Now e muito mais."
+      ]
+    },
+    "VPN Plan Feature": {
+      "${ n } server": [
+        "${ n } servidor",
+        "${ n }+ servidores"
+      ],
+      "${ n } VPN connection": [
+        "${ n } ligação VPN",
+        "${ n } ligações VPN"
+      ],
+      "${ numberOfServers } in ${ numberOfCountries } country": [
+        "${ numberOfServers } em ${ numberOfCountries } país",
+        "${ numberOfServers } em ${ numberOfCountries } países"
+      ]
+    },
+    "Warning": {
+      "Are you sure you want to delete the phone number?": [
+        "Tem a certeza de que deseja eliminar este número de telefone?"
+      ],
+      "By deleting this address, you will no longer be able to receive daily email notifications.": [
+        "Ao eliminar este endereço, já não poderá receber notificações diárias do correio."
+      ],
+      "By deleting this address, you will no longer be able to recover your account or receive daily email notifications.": [
+        "Ao eliminar este endereço, já não poderá recuperar a sua conta ou receber notificações diárias do correio."
+      ],
+      "By deleting this address, you will no longer be able to recover your account.": [
+        "Ao eliminar este endereço, já não poderá recuperar a sua conta."
+      ],
+      "By deleting this phone number, you will no longer be able to recover your account.": [
+        "Ao eliminar este número de telefone, já não poderá recuperar a sua conta."
+      ],
+      "Please note that by choosing this payment method, your account cannot be upgraded immediately. We will update your account once the payment is cleared.": [
+        "Note que ao escolher este método de pagamento, a sua conta não poderá ser atualizada imediatamente. Faremos a atualização assim que o pagamento for aprovado."
+      ],
+      "Reports are not end-to-end encrypted, please do not send any sensitive information.": [
+        "Os relatórios não são encriptados de ponta-a-ponta. Não envie nenhuma informação sensível."
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+import isTruthy from '@proton/utils/isTruthy';
+
+let current = 0;
+
+export const generateUID = (prefix?: string) => `${prefix || 'id'}-${current++}`;
+export const fakeEvent = <T>(value: T) => ({ target: { value } });
+
+export const concatStringProp = (strings: (string | boolean | null | undefined)[] = []) => {
+    return strings.filter(isTruthy).join(' ').trim();
+};
+
+/**
+ * @deprecated please use clsx from @proton/utils/clsx
+ *
+ * Join CSS classes into string for className prop
+ */
+export const classnames = (classNames: (string | boolean | null | undefined)[] = []) => {
+    return concatStringProp(classNames);
+};

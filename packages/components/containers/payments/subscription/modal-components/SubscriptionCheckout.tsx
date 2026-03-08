@@ -1,0 +1,216 @@
+import { ReactNode } from 'react';
+
+import { c } from 'ttag';
+
+
+
+import { APPS, PLANS } from '@proton/shared/lib/constants';
+import { Included, RequiredCheckResponse, getCheckout, getDiscountText, getWhatsIncluded } from '@proton/shared/lib/helpers/checkout';
+import { hasPlanIDs } from '@proton/shared/lib/helpers/planIDs';
+import { getKnowledgeBaseUrl } from '@proton/shared/lib/helpers/url';
+import { Currency, Cycle, PlanIDs, PlansMap, VPNServersCountData } from '@proton/shared/lib/interfaces';
+
+
+
+import { Badge, Collapsible, CollapsibleContent, CollapsibleHeader, CollapsibleHeaderIconButton, Icon, Info } from '../../../../components';
+import { useConfig } from '../../../../hooks';
+import Checkout from '../../Checkout';
+import StartDateCheckoutRow from '../../StartDateCheckoutRow';
+import { getTotalBillingText } from '../../helper';
+import CheckoutRow from './CheckoutRow';
+
+
+const PlanDescription = ({ list }: { list: Included[] }) => {
+    return (
+        <div className="mt-8">
+            <hr />
+            <Collapsible>
+                <CollapsibleHeader
+                    className="text-semibold"
+                    suffix={
+                        <CollapsibleHeaderIconButton>
+                            <Icon name="chevron-down" />
+                        </CollapsibleHeaderIconButton>
+                    }
+                >
+                    {c('Action').t`What do I get?`}
+                </CollapsibleHeader>
+                <CollapsibleContent>
+                    {list.map((item) => {
+                        if (item.type === 'value') {
+                            return (
+                                <div key={`${item.text}${item.type}`} className="flex flex-nowrap mb-2">
+                                    <div className="flex-item-fluid-auto text-ellipsis mr-4">{item.text}</div>
+                                    <div className="flex-item-fluid-auto flex-item-noshrink text-right">
+                                        {item.value}
+                                    </div>
+                                </div>
+                            );
+                        }
+                        if (item.type === 'text') {
+                            return (
+                                <div key={`${item.text}${item.type}`} className="flex flex-nowrap mb-2">
+                                    <div className="flex-item-fluid-auto text-ellipsis">{item.text}</div>
+                                </div>
+                            );
+                        }
+                        return null;
+                    })}
+                </CollapsibleContent>
+            </Collapsible>
+        </div>
+    );
+};
+
+interface Props {
+    submit?: ReactNode;
+    loading?: boolean;
+    plansMap: PlansMap;
+    vpnServers: VPNServersCountData;
+    checkResult: RequiredCheckResponse | undefined;
+    currency: Currency;
+    cycle: Cycle;
+    gift?: ReactNode;
+    onChangeCurrency: (currency: Currency) => void;
+    planIDs: PlanIDs;
+    isOptimistic?: boolean;
+    showProration?: boolean;
+    nextSubscriptionStart?: number;
+}
+
+const SubscriptionCheckout = ({
+    submit = c('Action').t`Pay`,
+    plansMap,
+    vpnServers,
+    currency,
+    cycle,
+    onChangeCurrency,
+    gift,
+    isOptimistic,
+    planIDs,
+    checkResult,
+    loading,
+    showProration = true,
+    nextSubscriptionStart,
+}: Props) => {
+    const { APP_NAME } = useConfig();
+    const isVPN = APP_NAME === APPS.PROTONVPN_SETTINGS;
+    const { planTitle, usersTitle, discountPercent, withDiscountPerMonth, withDiscountPerCycle, addons } = getCheckout({
+        planIDs,
+        plansMap,
+        checkResult,
+    });
+
+    if (!checkResult) {
+        return null;
+    }
+
+    const isFreePlanSelected = !hasPlanIDs(planIDs);
+    const isVPNPlanSelected = !!planIDs?.[PLANS.VPN];
+
+    const proration = checkResult.Proration ?? 0;
+    const credit = checkResult.Credit ?? 0;
+    const amount = checkResult.Amount || 0;
+    const amountDue = checkResult.AmountDue || 0;
+    const giftValue = Math.abs(checkResult.Gift || 0);
+
+    const list = getWhatsIncluded({ planIDs, plansMap, vpnServers });
+
+    const displayStartDate = !showProration;
+
+    return (
+        <Checkout
+            currency={currency}
+            onChangeCurrency={onChangeCurrency}
+            loading={loading}
+            hasGuarantee={isVPNPlanSelected}
+            hasPayments={!isOptimistic}
+            description={<PlanDescription list={list} />}
+        >
+            <div className="mb-4">
+                <strong>{planTitle}</strong>
+            </div>
+            <CheckoutRow
+                title={
+                    <>
+                        {usersTitle}
+                        {discountPercent > 0 && (
+                            <Badge type="success" tooltip={getDiscountText()} className="ml-2 text-semibold">
+                                -{discountPercent}%
+                            </Badge>
+                        )}
+                    </>
+                }
+                amount={withDiscountPerMonth}
+                currency={currency}
+                suffix={c('Suffix').t`/month`}
+            />
+            {addons.map((addon) => {
+                return (
+                    <div className="mb-4" key={addon.name}>
+                        {addon.title}
+                    </div>
+                );
+            })}
+            {!isFreePlanSelected && (
+                <>
+                    <div className="mb-4">
+                        <hr />
+                    </div>
+                    <CheckoutRow
+                        className="text-semibold"
+                        title={<span className="mr-2">{getTotalBillingText(cycle)}</span>}
+                        amount={withDiscountPerCycle}
+                        currency={currency}
+                    />
+                </>
+            )}
+            {showProration && proration !== 0 && (
+                <CheckoutRow
+                    title={
+                        <span className="inline-flex flex-align-items-center">
+                            <span className="mr-2">{c('Label').t`Proration`}</span>
+                            <Info
+                                title={
+                                    proration < 0
+                                        ? c('Info').t`Credit for the unused portion of your previous plan subscription`
+                                        : c('Info').t`Balance from your previous subscription`
+                                }
+                                url={
+                                    isVPN
+                                        ? 'https://protonvpn.com/support/vpn-credit-proration/'
+                                        : getKnowledgeBaseUrl('/credit-proration-coupons')
+                                }
+                            />
+                        </span>
+                    }
+                    amount={proration}
+                    currency={currency}
+                    data-testid="proration-value"
+                />
+            )}
+            {displayStartDate && nextSubscriptionStart && (
+                <StartDateCheckoutRow nextSubscriptionStart={nextSubscriptionStart} />
+            )}
+            {credit !== 0 && <CheckoutRow title={c('Title').t`Credits`} amount={credit} currency={currency} />}
+            {giftValue > 0 && <CheckoutRow title={c('Title').t`Gift`} amount={-giftValue} currency={currency} />}
+            {!isOptimistic && (
+                <>
+                    <div className="mb-4">
+                        <hr />
+                    </div>
+                    <CheckoutRow
+                        title={c('Title').t`Amount due`}
+                        amount={amountDue}
+                        currency={currency}
+                        className="text-bold m-0 text-2xl"
+                    />
+                </>
+            )}
+            <div className="my-4">{submit}</div>
+            {!isOptimistic && amount > 0 && gift ? gift : null}
+        </Checkout>
+    );
+};
+
+export default SubscriptionCheckout;

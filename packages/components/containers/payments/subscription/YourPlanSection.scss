@@ -1,0 +1,16 @@
+@import '~@proton/styles/scss/lib';
+
+.your-plan-section-container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+
+	& > div {
+		block-size: fit-content;
+	}
+
+	@include media('<=medium') {
+		grid-template-columns: repeat(1, 1fr);
+	}
+}
+
+// .your-account-usage-container { grid-area: 2 / 2 / 3 / 3; } // if we want to go right
